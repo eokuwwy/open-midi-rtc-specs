@@ -600,7 +600,7 @@ controlChangeCommands:
     min: 0
     additionalProperties: {}
   additionalProperties: {}
-description: "open-midi-ic specification for the Moog Subsequent 37"
+description: "open-midi-rtc-schema specification for the Moog Subsequent 37"
 device:
   description: "Analog Synthesizer"
   deviceType: "SYNTHESIZER"

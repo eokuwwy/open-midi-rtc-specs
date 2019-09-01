@@ -463,7 +463,7 @@
       "additionalProperties": {}
     }
   ],
-  "description": "open-midi-ic specification for the Roland JX-03",
+  "description": "open-midi-rtc-schema specification for the Roland JX-03",
   "device": {
     "description": "Analog Modeled Synthesizer",
     "deviceType": "SYNTHESIZER",

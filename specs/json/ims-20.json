@@ -595,7 +595,7 @@
       "additionalProperties": {}
     }
   ],
-  "description": "open-midi-ic specification for the Korg iMS-20",
+  "description": "open-midi-rtc-schema specification for the Korg iMS-20",
   "device": {
     "description": "Analog Modeled Synthesizer",
     "deviceType": "SYNTHESIZER",

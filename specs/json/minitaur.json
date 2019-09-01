@@ -342,7 +342,7 @@
       "additionalProperties": {}
     }
   ],
-  "description": "open-midi-ic specification for the Moog Minitaur",
+  "description": "open-midi-rtc-schema specification for the Moog Minitaur",
   "device": {
     "description": "Analog Synthesizer",
     "deviceType": "SYNTHESIZER",

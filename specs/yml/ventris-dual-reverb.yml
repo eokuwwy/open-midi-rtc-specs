@@ -416,7 +416,7 @@ controlChangeCommands:
     min: 0
     additionalProperties: {}
   additionalProperties: {}
-description: "open-midi-ic specification for the Ventris Dual Reverb"
+description: "open-midi-rtc-schema specification for the Ventris Dual Reverb"
 device:
   description: "Reverb Pedal"
   deviceType: "EFFECTS"

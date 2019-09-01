@@ -122,7 +122,7 @@
       "additionalProperties": {}
     }
   ],
-  "description": "open-midi-ic specification for the Korg Volca FM",
+  "description": "open-midi-rtc-schema specification for the Korg Volca FM",
   "device": {
     "description": "FM Synthesizer",
     "deviceType": "SYNTHESIZER",

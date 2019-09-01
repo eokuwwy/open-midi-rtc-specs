@@ -184,7 +184,7 @@ controlChangeCommands:
     min: 0
     additionalProperties: {}
   additionalProperties: {}
-description: "open-midi-ic specification for the Korg Monologue"
+description: "open-midi-rtc-schema specification for the Korg Monologue"
 device:
   description: "Analog Synthesizer"
   deviceType: "SYNTHESIZER"

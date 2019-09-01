@@ -408,7 +408,7 @@
       "additionalProperties": {}
     }
   ],
-  "description": "open-midi-ic specification for SIX-TRAK",
+  "description": "open-midi-rtc-schema specification for SIX-TRAK",
   "device": {
     "description": "SIX-TRAK CC Mappings",
     "deviceType": "SYNTHESIZER",

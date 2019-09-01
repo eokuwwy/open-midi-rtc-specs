@@ -375,7 +375,7 @@
       "additionalProperties": {}
     }
   ],
-  "description": "open-midi-ic specification for the Roland JU-06",
+  "description": "open-midi-rtc-schema specification for the Roland JU-06",
   "device": {
     "description": "Analog Modeled Synthesizer",
     "deviceType": "SYNTHESIZER",

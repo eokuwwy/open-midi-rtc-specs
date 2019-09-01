@@ -760,7 +760,7 @@
       "additionalProperties": {}
     }
   ],
-  "description": "open-midi-ic specification for the Elektron Digitone",
+  "description": "open-midi-rtc-schema specification for the Elektron Digitone",
   "device": {
     "description": "FM Synthesizer and Groove Box",
     "deviceType": "SYNTHESIZER",

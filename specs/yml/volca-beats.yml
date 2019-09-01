@@ -160,7 +160,7 @@ controlChangeCommands:
     min: 0
     additionalProperties: {}
   additionalProperties: {}
-description: "open-midi-ic specification for the Korg Volca Beats"
+description: "open-midi-rtc-schema specification for the Korg Volca Beats"
 device:
   description: "Analog Drum Machine"
   deviceType: "DRUM_MACHINE"

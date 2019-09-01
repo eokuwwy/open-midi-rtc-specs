@@ -624,7 +624,7 @@ controlChangeCommands:
     min: 0
     additionalProperties: {}
   additionalProperties: {}
-description: "open-midi-ic specification for the Roland System-8"
+description: "open-midi-rtc-schema specification for the Roland System-8"
 device:
   description: "Analog Modeled Synthesizer"
   deviceType: "SYNTHESIZER"

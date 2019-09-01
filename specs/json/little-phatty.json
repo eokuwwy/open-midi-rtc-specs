@@ -562,7 +562,7 @@
       "additionalProperties": {}
     }
   ],
-  "description": "open-midi-ic specification for the Moog Little Phatty",
+  "description": "open-midi-rtc-schema specification for the Moog Little Phatty",
   "device": {
     "description": "Analog Synthesizer",
     "deviceType": "SYNTHESIZER",

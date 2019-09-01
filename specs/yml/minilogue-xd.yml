@@ -440,7 +440,7 @@ controlChangeCommands:
     min: 0
     additionalProperties: {}
   additionalProperties: {}
-description: "open-midi-ic specification for the Korg Minilogue XD"
+description: "open-midi-rtc-schema specification for the Korg Minilogue XD"
 device:
   description: "Analog Synthesizer"
   deviceType: "SYNTHESIZER"

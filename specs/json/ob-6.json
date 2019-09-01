@@ -408,7 +408,7 @@
       "additionalProperties": {}
     }
   ],
-  "description": "open-midi-ic specification for the DSI OB-6",
+  "description": "open-midi-rtc-schema specification for the DSI OB-6",
   "device": {
     "description": "6-voice VCO Analog Synthesizer",
     "deviceType": "SYNTHESIZER",

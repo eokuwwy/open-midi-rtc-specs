@@ -749,7 +749,7 @@
       "additionalProperties": {}
     }
   ],
-  "description": "open-midi-ic specification for the Roland JD-XA",
+  "description": "open-midi-rtc-schema specification for the Roland JD-XA",
   "device": {
     "description": "Analog/Digital Hybrid Synthesizer",
     "deviceType": "SYNTHESIZER",

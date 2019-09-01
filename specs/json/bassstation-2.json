@@ -694,7 +694,7 @@
       "additionalProperties": {}
     }
   ],
-  "description": "open-midi-ic specification for the Novation BassStation II",
+  "description": "open-midi-rtc-schema specification for the Novation BassStation II",
   "device": {
     "description": "DCO Analog Synthesizer",
     "deviceType": "SYNTHESIZER",

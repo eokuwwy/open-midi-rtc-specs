@@ -464,7 +464,7 @@ controlChangeCommands:
     min: 0
     additionalProperties: {}
   additionalProperties: {}
-description: "open-midi-ic specification for the Elektron Analog Keys"
+description: "open-midi-rtc-schema specification for the Elektron Analog Keys"
 device:
   description: "Analog Synthesizer"
   deviceType: "SYNTHESIZER"

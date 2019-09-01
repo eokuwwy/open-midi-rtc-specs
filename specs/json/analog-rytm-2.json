@@ -661,7 +661,7 @@
       "additionalProperties": {}
     }
   ],
-  "description": "open-midi-ic specification for the Elektron Analog Rytm MKII",
+  "description": "open-midi-rtc-schema specification for the Elektron Analog Rytm MKII",
   "device": {
     "description": "Analog Drum Machine",
     "deviceType": "DRUM_MACHINE",

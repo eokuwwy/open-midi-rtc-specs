@@ -1046,7 +1046,7 @@
       "additionalProperties": {}
     }
   ],
-  "description": "open-midi-ic specification for the Korg ARP Odyssei",
+  "description": "open-midi-rtc-schema specification for the Korg ARP Odyssei",
   "device": {
     "description": "Analog Modeled Synthesizer",
     "deviceType": "SYNTHESIZER",

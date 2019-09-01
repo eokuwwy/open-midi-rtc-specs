@@ -824,7 +824,7 @@ controlChangeCommands:
     min: 0
     additionalProperties: {}
   additionalProperties: {}
-description: "open-midi-ic specification for the Behringer DeepMind 12"
+description: "open-midi-rtc-schema specification for the Behringer DeepMind 12"
 device:
   description: "DCO Analog Synthesizer"
   deviceType: "SYNTHESIZER"

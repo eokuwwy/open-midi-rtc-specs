@@ -288,7 +288,7 @@ controlChangeCommands:
     min: 0
     additionalProperties: {}
   additionalProperties: {}
-description: "open-midi-ic specification for the Roland JP-8000"
+description: "open-midi-rtc-schema specification for the Roland JP-8000"
 device:
   description: "Analog Modeled Synthesizer"
   deviceType: "SYNTHESIZER"

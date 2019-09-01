@@ -312,7 +312,7 @@ controlChangeCommands:
     min: 0
     additionalProperties: {}
   additionalProperties: {}
-description: "open-midi-ic specification for the Sequential Prophet-6"
+description: "open-midi-rtc-schema specification for the Sequential Prophet-6"
 device:
   description: "6-voice VCO Analog Synthesizer"
   deviceType: "SYNTHESIZER"

@@ -8,7 +8,7 @@ controlChangeCommands:
     min: 0
     additionalProperties: {}
   additionalProperties: {}
-description: "open-midi-ic specification for the Roland JU-2"
+description: "open-midi-rtc-schema specification for the Roland JU-2"
 device:
   description: "6-voice DCO Analog Synthesizer"
   deviceType: "SYNTHESIZER"

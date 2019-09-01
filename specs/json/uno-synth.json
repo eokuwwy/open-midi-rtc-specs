@@ -738,7 +738,7 @@
       "additionalProperties": {}
     }
   ],
-  "description": "open-midi-ic specification for the IK Multimedia UNO Synth",
+  "description": "open-midi-rtc-schema specification for the IK Multimedia UNO Synth",
   "device": {
     "description": "Analog Synthesizer",
     "deviceType": "SYNTHESIZER",

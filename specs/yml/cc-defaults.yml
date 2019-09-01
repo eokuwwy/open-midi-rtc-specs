@@ -234,7 +234,7 @@ controlChangeCommands:
     min: 0
     additionalProperties: {}
   additionalProperties: {}
-description: "open-midi-ic specification for Common CC usage"
+description: "open-midi-rtc-schema specification for Common CC usage"
 device:
   description: "Common Default CC Mappings"
   deviceType: "MULTI"

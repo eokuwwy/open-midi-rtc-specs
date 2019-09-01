@@ -650,7 +650,7 @@
       "additionalProperties": {}
     }
   ],
-  "description": "open-midi-ic specification for the Roland SE-02",
+  "description": "open-midi-rtc-schema specification for the Roland SE-02",
   "device": {
     "description": "Analog Synthesizer",
     "deviceType": "SYNTHESIZER",

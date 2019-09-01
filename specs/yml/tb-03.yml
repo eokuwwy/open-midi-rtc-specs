@@ -80,7 +80,7 @@ controlChangeCommands:
     min: 0
     additionalProperties: {}
   additionalProperties: {}
-description: "open-midi-ic specification for the Roland TB-03"
+description: "open-midi-rtc-schema specification for the Roland TB-03"
 device:
   description: "Analog Modeled Synthesizer"
   deviceType: "SYNTHESIZER"

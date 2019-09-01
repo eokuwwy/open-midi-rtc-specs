@@ -80,7 +80,7 @@ controlChangeCommands:
     min: 0
     additionalProperties: {}
   additionalProperties: {}
-description: "open-midi-ic specification for the Korg Volca Kick"
+description: "open-midi-rtc-schema specification for the Korg Volca Kick"
 device:
   description: "Analog Drum Machine"
   deviceType: "DRUM_MACHINE"

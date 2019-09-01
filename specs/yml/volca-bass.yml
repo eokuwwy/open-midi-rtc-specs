@@ -96,7 +96,7 @@ controlChangeCommands:
     min: 0
     additionalProperties: {}
   additionalProperties: {}
-description: "open-midi-ic specification for the Korg Volca Bass"
+description: "open-midi-rtc-schema specification for the Korg Volca Bass"
 device:
   description: "Bass Synthesizer"
   deviceType: "SYNTHESIZER"

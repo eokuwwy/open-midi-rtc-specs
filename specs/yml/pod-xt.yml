@@ -616,7 +616,7 @@ controlChangeCommands:
     min: 0
     additionalProperties: {}
   additionalProperties: {}
-description: "open-midi-ic specification for the Line-6 POD XT"
+description: "open-midi-rtc-schema specification for the Line-6 POD XT"
 device:
   description: "Multi-Effects Unit"
   deviceType: "EFFECTS"

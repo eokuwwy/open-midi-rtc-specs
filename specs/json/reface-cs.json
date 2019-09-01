@@ -237,7 +237,7 @@
       "additionalProperties": {}
     }
   ],
-  "description": "open-midi-ic specification for the Yamaha Reface CS",
+  "description": "open-midi-rtc-schema specification for the Yamaha Reface CS",
   "device": {
     "description": "Virtual Analog Synth",
     "deviceType": "SYNTHESIZER",

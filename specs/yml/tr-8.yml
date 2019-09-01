@@ -400,7 +400,7 @@ controlChangeCommands:
     min: 0
     additionalProperties: {}
   additionalProperties: {}
-description: "open-midi-ic specification for the Roland TR-8"
+description: "open-midi-rtc-schema specification for the Roland TR-8"
 device:
   description: "Drum Machine"
   deviceType: "DRUM_MACHINE"

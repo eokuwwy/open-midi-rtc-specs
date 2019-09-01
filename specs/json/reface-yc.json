@@ -244,7 +244,7 @@
       "additionalProperties": {}
     }
   ],
-  "description": "open-midi-ic specification for the Yamaha Reface YC",
+  "description": "open-midi-rtc-schema specification for the Yamaha Reface YC",
   "device": {
     "description": "Organ PCM",
     "deviceType": "SYNTHESIZER",

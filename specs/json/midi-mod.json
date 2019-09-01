@@ -1275,7 +1275,7 @@
       "additionalProperties": {}
     }
   ],
-  "description": "open-midi-ic specification for the MIDI Mod iOS app",
+  "description": "open-midi-rtc-schema specification for the MIDI Mod iOS app",
   "device": {
     "description": "MIDI Expansion Utility",
     "deviceType": "MULTI",

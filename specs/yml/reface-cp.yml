@@ -129,7 +129,7 @@ controlChangeCommands:
     min: 0
     additionalProperties: {}
   additionalProperties: {}
-description: "open-midi-ic specification for the Yamaha Reface CP"
+description: "open-midi-rtc-schema specification for the Yamaha Reface CP"
 device:
   description: "Piano PCM"
   deviceType: "SYNTHESIZER"

@@ -233,7 +233,7 @@ controlChangeCommands:
     min: 0
     additionalProperties: {}
   additionalProperties: {}
-description: "open-midi-ic specification for the Yamaha Reface DX"
+description: "open-midi-rtc-schema specification for the Yamaha Reface DX"
 device:
   description: "FM Synthesizer"
   deviceType: "SYNTHESIZER"

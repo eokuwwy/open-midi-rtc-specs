@@ -464,7 +464,7 @@ controlChangeCommands:
     min: 0
     additionalProperties: {}
   additionalProperties: {}
-description: "open-midi-ic specification for the Korg Volca Drum"
+description: "open-midi-rtc-schema specification for the Korg Volca Drum"
 device:
   description: "Drum Machine"
   deviceType: "DRUM_MACHINE"

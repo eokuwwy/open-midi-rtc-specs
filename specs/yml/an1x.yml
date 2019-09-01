@@ -592,7 +592,7 @@ controlChangeCommands:
     min: 0
     additionalProperties: {}
   additionalProperties: {}
-description: "open-midi-ic specification for the Yamaha AN1x"
+description: "open-midi-rtc-schema specification for the Yamaha AN1x"
 device:
   description: "Virtual Analog Synth"
   deviceType: "SYNTHESIZER"

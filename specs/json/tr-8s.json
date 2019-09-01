@@ -606,7 +606,7 @@
       "additionalProperties": {}
     }
   ],
-  "description": "open-midi-ic specification for the Roland TR-8S",
+  "description": "open-midi-rtc-schema specification for the Roland TR-8S",
   "device": {
     "description": "Drum Machine",
     "deviceType": "DRUM_MACHINE",

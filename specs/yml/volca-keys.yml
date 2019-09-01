@@ -128,7 +128,7 @@ controlChangeCommands:
     min: 0
     additionalProperties: {}
   additionalProperties: {}
-description: "open-midi-ic specification for the Korg Volca Keys"
+description: "open-midi-rtc-schema specification for the Korg Volca Keys"
 device:
   description: "Analog Synthesizer"
   deviceType: "SYNTHESIZER"

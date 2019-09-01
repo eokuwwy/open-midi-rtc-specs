@@ -424,7 +424,7 @@ controlChangeCommands:
     min: 0
     additionalProperties: {}
   additionalProperties: {}
-description: "open-midi-ic specification for the Korg iPolysix"
+description: "open-midi-rtc-schema specification for the Korg iPolysix"
 device:
   description: "Analog Modeled Synthesizer"
   deviceType: "SYNTHESIZER"

@@ -88,7 +88,7 @@ controlChangeCommands:
     min: 0
     additionalProperties: {}
   additionalProperties: {}
-description: "open-midi-ic specification for the DSI Tempest"
+description: "open-midi-rtc-schema specification for the DSI Tempest"
 device:
   description: "Analog Drum Machine"
   deviceType: "DRUM_MACHINE"

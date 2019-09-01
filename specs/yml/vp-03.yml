@@ -240,7 +240,7 @@ controlChangeCommands:
     min: 0
     additionalProperties: {}
   additionalProperties: {}
-description: "open-midi-ic specification for the Roland VP-03"
+description: "open-midi-rtc-schema specification for the Roland VP-03"
 device:
   description: "Analog Modeled Synthesizer and Vocoder"
   deviceType: "SYNTHESIZER"

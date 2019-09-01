@@ -1068,7 +1068,7 @@
       "additionalProperties": {}
     }
   ],
-  "description": "open-midi-ic specification for the Sequential Pro-2",
+  "description": "open-midi-rtc-schema specification for the Sequential Pro-2",
   "device": {
     "description": "Analog/Digital Hybrid Synthesizer",
     "deviceType": "SYNTHESIZER",

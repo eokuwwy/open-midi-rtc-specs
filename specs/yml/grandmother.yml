@@ -176,7 +176,7 @@ controlChangeCommands:
     min: 0
     additionalProperties: {}
   additionalProperties: {}
-description: "open-midi-ic specification for the Moog Grandmother"
+description: "open-midi-rtc-schema specification for the Moog Grandmother"
 device:
   description: "Analog Synthesizer"
   deviceType: "SYNTHESIZER"
