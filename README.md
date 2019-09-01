@@ -1,2 +1,4 @@
-# open-midi-rtc-specs
-Public repo for specifications that adhere to the open-midi-rtc schema
+# Open MIDI Realtime Control Specs
+Public repo for specification documents that adhere to the [Open MIDI Realtime Control Schema](https://github.com/eokuwwy/open-midi-rtc-schema).
+
+See [https://github.com/eokuwwy/open-midi-rtc-schema](https://github.com/eokuwwy/open-midi-rtc-schema) for more info.
