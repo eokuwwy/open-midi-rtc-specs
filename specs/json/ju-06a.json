@@ -313,19 +313,19 @@
       }
     }
   ],
-  "description": "open-midi-rtc-schema specification for ",
+  "description": "open-midi-rtc-schema specification for JU-06A",
   "device": {
-    "description": " Parameter Mappings",
+    "description": "JU-06A Parameter Mappings",
     "deviceType": "SYNTHESIZER",
-    "displayName": "",
-    "documentationResource": "",
-    "identifier": "",
-    "manufacturer": "Unknown",
-    "model": "",
-    "name": "",
+    "displayName": "JU-06A",
+    "documentationResource": "roland.com",
+    "identifier": "41",
+    "manufacturer": "Roland",
+    "model": "JU-06A",
+    "name": "JU-06A",
     "version": "1.0.0"
   },
-  "displayName": "",
+  "displayName": "JU-06A Parameter Mappings",
   "implementationVersion": "1.0.0",
   "receives": [
     "NOTE_NUMBER",
