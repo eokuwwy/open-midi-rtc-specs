@@ -251,7 +251,7 @@ device:
   model: "Z1"
   name: "Z1"
   version: "1.0.0"
-displayName: "Z1"
+displayName: "Korg Z1"
 implementationVersion: "1.0.0"
 receives:
 - "NOTE_NUMBER"
