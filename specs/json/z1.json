@@ -410,7 +410,7 @@
   "title": " MIDI Implementation",
   "transmits": [
     "NOTE_NUMBER",
-    "PITCH_BEND"
+    "PITCH_BEND",
     "VELOCITY_NOTE_ON",
     "CHANNEL_PRESSURE",
     "CLOCK"
