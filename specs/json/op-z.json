@@ -339,7 +339,7 @@
   ],
   "description": "open-midi-rtc-schema specification for ",
   "device": {
-    "description": "OP-Z Parameter Mappings",
+    "description": "OP-Z Parameter Mapping",
     "deviceType": "SYNTHESIZER",
     "displayName": "OP-Z",
     "documentationResource": "teenage.engineering",
@@ -349,7 +349,7 @@
     "name": "OP-Z",
     "version": "1.0.0"
   },
-  "displayName": "OP-Z Parameter Mappings",
+  "displayName": "OP-Z",
   "implementationVersion": "1.0.0",
   "receives": [
     "NOTE_NUMBER",

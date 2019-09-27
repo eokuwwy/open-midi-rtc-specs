@@ -221,7 +221,7 @@ device:
   model: "OP-Z"
   name: "OP-Z"
   version: "1.0.0"
-displayName: "OP-Z Parameter Mappings"
+displayName: "OP-Z"
 implementationVersion: "1.0.0"
 receives:
 - "NOTE_NUMBER"
