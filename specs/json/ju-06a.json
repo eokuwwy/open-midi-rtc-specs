@@ -325,7 +325,7 @@
     "name": "JU-06A",
     "version": "1.0.0"
   },
-  "displayName": "JU-06A Parameter Mappings",
+  "displayName": "Roland JU-06A",
   "implementationVersion": "1.0.0",
   "receives": [
     "NOTE_NUMBER",
