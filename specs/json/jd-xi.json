@@ -265,11 +265,11 @@
     "documentationResource": "roland.com",
     "identifier": "41",
     "manufacturer": "Roland",
-    "model": "",
-    "name": "",
+    "model": "JD-Xi",
+    "name": "JD-Xi",
     "version": "1.0.0"
   },
-  "displayName": "",
+  "displayName": "Roland JD-Xi",
   "implementationVersion": "1.0.0",
   "nrpnCommands": [
     {
