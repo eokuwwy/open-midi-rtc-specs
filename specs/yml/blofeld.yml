@@ -1,1029 +1,695 @@
 ---
 controlChangeCommands:
-- controlChangeNumber: 0
-  name: "Bank Select MSB"
-  valueRange:
-    discreteValues: []
-    max: 127
-    min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 1
   name: "Modulation Wheel*"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 2
   name: "Breath Control*"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
-- controlChangeNumber: 3
-  name: "undefined - not used -"
-  valueRange:
-    discreteValues: []
-    max: 127
-    min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 4
   name: "Foot Control*"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 5
   name: "Glide Rate"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 6
   name: "Data Entry"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 7
   name: "Channel Volume*"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 8
   name: "Balance"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
-- controlChangeNumber: 9
-  name: "undefined"
-  valueRange:
-    discreteValues: []
-    max: 127
-    min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 10
   name: "Pan*"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 11
   name: "Expression"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 12
   name: "Arp Range"
   valueRange:
     discreteValues: []
     max: 10
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 13
   name: "Arp Length"
   valueRange:
     discreteValues: []
     max: 16
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 14
   name: "Arp Active"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 15
   name: "LFO 1 Shape"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 16
   name: "LFO 1 Speed"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 17
-  name: "LFO 1 Sync,0...1"
+  name: "LFO 1 Sync"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 18
   name: "LFO 1 Delay"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 19
-  name: "LFO 2 Shape,0...5"
+  name: "LFO 2 Shape"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 20
   name: "LFO 2 Speed"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 21
-  name: "LFO 2 Sync,0...1"
+  name: "LFO 2 Sync"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 22
   name: "LFO 2 Delay"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 23
-  name: "LFO 3 Shape,0...5"
+  name: "LFO 3 Shape"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 24
   name: "LFO 3 Speed"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 25
-  name: "LFO 3 Sync,0...1"
+  name: "LFO 3 Sync"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 26
   name: "LFO 3 Delay"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 27
-  name: "Osc 1 Octave,16, 28, 40...112"
+  name: "Osc 1 Octave"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 28
-  name: "Osc 1 Semitone,52...76"
+  name: "Osc 1 Semitone"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 29
   name: "Osc 1 Detune"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 30
   name: "Osc1 FM"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 31
-  name: "Osc 1 Shape,0...5"
+  name: "Osc 1 Shape"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 32
-  name: "Bank Select LSB*,0...n"
+  name: "Bank Select LSB*"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 33
   name: "Osc1 PW"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 34
   name: "Osc 1 PWM"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 35
-  name: "Osc 2 Octave,16, 28, 40...112"
+  name: "Osc 2 Octave"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 36
-  name: "Osc 2 Semitone,52...76"
+  name: "Osc 2 Semitone"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 37
   name: "Osc 2 Detune"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 38
   name: "Osc2 FM"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 39
-  name: "Osc 2 Shape,0...5"
+  name: "Osc 2 Shape"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 40
   name: "Osc2 PW"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 41
   name: "Osc 2 PWM"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 42
-  name: "Osc 3 Octave, 16, 28, 40...112"
+  name: "Osc 3 Octave"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 43
-  name: "Osc 3 Semitone,52...76"
+  name: "Osc 3 Semitone"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 44
   name: "Osc 3 Detune"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 45
   name: "Osc3FM"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 46
-  name: "Osc 3 Shape,0...5"
+  name: "Osc 3 Shape"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 47
   name: "Osc3PW"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 48
   name: "Osc 3 PWM"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 49
-  name: "Sync,0...1"
+  name: "Sync"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 50
   name: "Pitchmod"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 51
-  name: "Glide Mode,0...9"
+  name: "Glide Mode"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 52
   name: "Osc 1 Level"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 53
   name: "Osc 1 Balance"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 54
   name: "Ringmod Level"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 55
   name: "Ringmod Balance"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 56
   name: "Osc 2 Level"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 57
   name: "Osc 2 Balance"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 58
   name: "Osc 3 Level"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 59
   name: "Osc 3 Balance"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 60
   name: "Noise Level"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 61
   name: "Noise Balance"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 62
   name: "Noise Colour"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
-- controlChangeNumber: 63
-  name: "undefined,- not used -"
-  valueRange:
-    discreteValues: []
-    max: 127
-    min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 64
   name: "Sustain Pedal*"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 65
   name: "Glide Active"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 66
   name: "Sostenuto"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 67
   name: "Routing"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 68
-  name: "Filter 1 Type,0...10"
+  name: "Filter 1 Type"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 69
   name: "Filter 1 Cutoff"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 70
   name: "Filter 1 Resonance"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 71
   name: "Filter 1 Drive"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 72
   name: "Filter 1 Keytrack"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 73
   name: "Filter 1 Env. Amount"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 74
   name: "Filter 1 Env. Velocity"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 75
   name: "Filter 1 CutoffMod"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 76
   name: "Filter 1 FM"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 77
   name: "Filter 1 Pan"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 78
   name: "Filter 1 Panmod"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 79
-  name: "Filter 2 Type,0...10"
+  name: "Filter 2 Type"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 80
   name: "Filter 2 Cutoff"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 81
   name: "Filter 2 Resonance"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 82
   name: "Filter 2 Drive"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 83
   name: "Filter 2 Keytrack"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 84
   name: "Filter 2 Env. Amount"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 85
   name: "Filter 2 Env. Velocity"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 86
   name: "Filter 2 CutoffMod"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 87
   name: "Filter 2 FM"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 88
   name: "Filter 2 Pan"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 89
   name: "Filter 2 Panmod"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 90
   name: "Amp Volume"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 91
   name: "Amp Velocity"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 92
   name: "Amp Mod"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 93
   name: "FX1Mix"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 94
   name: "FX2Mix"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 95
   name: "FE Attack"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 96
   name: "FE Decay"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 97
   name: "FE Sustain"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 98
   name: "FE Decay 2"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 99
   name: "FE Sustain 2"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 100
   name: "FE Release"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 101
   name: "AE Attack"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 102
   name: "AE Decay"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 103
   name: "AE Sustain"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 104
   name: "AE Decay 2"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 105
   name: "AE Sustain 2"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 106
   name: "AE Release"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 107
   name: "E3 Attack"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 108
   name: "E3 Decay"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 109
   name: "E3 Sustain"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 110
   name: "E3 Decay 2"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 111
   name: "E3 Sustain 2"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 112
   name: "E3 Release"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 113
   name: "E4 Attack"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 114
   name: "E4 Decay"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 115
   name: "E4 Sustain"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 116
   name: "E4 Decay 2"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 117
   name: "E4 Sustain 2"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 - controlChangeNumber: 118
   name: "E4 Release"
   valueRange:
     discreteValues: []
     max: 127
     min: 0
-    additionalProperties: {}
-  additionalProperties: {}
-- controlChangeNumber: 119
-  name: "undefined,-notused-"
-  valueRange:
-    discreteValues: []
-    max: 127
-    min: 0
-    additionalProperties: {}
-  additionalProperties: {}
-- controlChangeNumber: 120
-  name: "All Sound Off*,0"
-  valueRange:
-    discreteValues: []
-    max: 127
-    min: 0
-    additionalProperties: {}
-  additionalProperties: {}
-- controlChangeNumber: 121
-  name: "Reset All Controllers*,0"
-  valueRange:
-    discreteValues: []
-    max: 127
-    min: 0
-    additionalProperties: {}
-  additionalProperties: {}
-- controlChangeNumber: 122
-  name: "Local Control"
-  valueRange:
-    discreteValues: []
-    max: 127
-    min: 0
-    additionalProperties: {}
-  additionalProperties: {}
-- controlChangeNumber: 123
-  name: "All Notes Off*,0"
-  valueRange:
-    discreteValues: []
-    max: 127
-    min: 0
-    additionalProperties: {}
-  additionalProperties: {}
-- controlChangeNumber: 124
-  name: "Omni Mode Off,-notused-"
-  valueRange:
-    discreteValues: []
-    max: 127
-    min: 0
-    additionalProperties: {}
-  additionalProperties: {}
-- controlChangeNumber: 125
-  name: "Omni Mode On,-notused-"
-  valueRange:
-    discreteValues: []
-    max: 127
-    min: 0
-    additionalProperties: {}
-  additionalProperties: {}
-- controlChangeNumber: 126
-  name: "Poly Mode On/Off,-notused-"
-  valueRange:
-    discreteValues: []
-    max: 127
-    min: 0
-    additionalProperties: {}
-  additionalProperties: {}
-- controlChangeNumber: 127
-  name: "Poly Mode On,-notused-"
-  valueRange:
-    discreteValues: []
-    max: 127
-    min: 0
-    additionalProperties: {}
-  additionalProperties: {}
 description: "open-midi-rtc-schema specification for Waldorf Blofeld"
 device:
   description: "Waldorf Blofeld Parameter Mappings"
@@ -1038,8 +704,12 @@ device:
 displayName: "Waldorf Blofeld"
 implementationVersion: "1.0.0"
 receives:
-- "NOTE_NUMBER"
+- "VELOCITY_NOTE_ON"
+- "VELOCITY_NOTE_OFF"
+- "CHANNEL_PRESSURE"
+- "POLY_PRESSURE"
 - "PITCH_BEND"
+- "CLOCK"
 schemaVersion: "0.0.1"
 title: "MIDI Implementation"
 transmits:
