@@ -1,5 +1,14 @@
 ---
 controlChangeCommands:
+- controlChangeNumber: 0
+  description: "Bank select for presets and patches"
+  name: "Bank Select"
+  valueRange:
+    discreteValues: []
+    max: 127
+    min: 0
+    additionalProperties: {}
+  additionalProperties: {}
 - controlChangeNumber: 1
   description: "Typically sent via a mod wheel or mod ribbon"
   name: "Modulation"
