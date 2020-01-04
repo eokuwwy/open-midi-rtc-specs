@@ -332,7 +332,7 @@
     },
     {
       "controlChangeNumber": 77,
-      "name": "Filter Env DepthF",
+      "name": "Filter Env Depth",
       "valueRange": {
         "discreteValues": [],
         "max": 127,
