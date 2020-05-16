@@ -1,0 +1,288 @@
+---
+controlChangeCommands:
+- controlChangeNumber: 1
+  name: "Mod Wheel"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 2
+  name: "Breath Controller"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 4
+  name: "Foot Controller"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 7
+  name: "Volume"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 11
+  name: "Expression Controller"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 32
+  name: "Bank Select"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 64
+  name: "Damper Pedal"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 74
+  name: "Brightness"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 20
+  name: "Oscillator 1 Frequency"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 21
+  name: "Oscillator 2 Frequency"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 22
+  name: "Oscillator 3 Frequency"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 23
+  name: "Oscillator 4 Frequency"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 24
+  name: "Oscillator 1 Level"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 25
+  name: "Oscillator 2 Level"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 26
+  name: "Oscillator 3 Level"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 27
+  name: "Oscillator 4 Level"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 28
+  name: "Oscillator 1 Shape"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 29
+  name: "Oscillator 2 Shape"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 30
+  name: "Oscillator 3 Shape"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 31
+  name: "Oscillator 4 Shape"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 40
+  name: "FM 4->3"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 41
+  name: "FM 3->4"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 42
+  name: "RM 4->3"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 43
+  name: "RM 3->4"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 62
+  name: "Noise Level"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 52
+  name: "Low Pass Filter Frequency"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 53
+  name: "Filter Resonance"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 54
+  name: "Filter Envelope Amount"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 55
+  name: "Filter Attack"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 56
+  name: "Filter Decay"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 57
+  name: "Filter Sustain"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 58
+  name: "Filter Release"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 59
+  name: "Filter Audio Mod"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 60
+  name: "Filter Split"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 61
+  name: "Filter Key Amount"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 75
+  name: "Amp Attack"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 76
+  name: "Amp Decay"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 77
+  name: "Amp Sustain"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 78
+  name: "Amp Release"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 13
+  name: "Highpass Filter Cutoff"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 85
+  name: "Feedback Frequency"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 86
+  name: "Feedback Level"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 12
+  name: "Distortion"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 102
+  name: "Delay 1 Time"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 103
+  name: "Delay 2 Time"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 104
+  name: "Delay 3 Time"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 105
+  name: "Delay 1 Amount"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 106
+  name: "Delay 2 Amount"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 107
+  name: "Delay 3 Amount"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 108
+  name: "Delay Feedback 1"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 109
+  name: "Delay Feedback 2"
+  valueRange:
+    max: 127
+    min: 0
+description: "open-midi-rtc-schema specification for Evolver"
+device:
+  description: "Evolver Parameter Mappings"
+  deviceType: "SYNTHESIZER"
+  displayName: "Evolver"
+  documentationResource: "sequential.com"
+  identifier: "01"
+  manufacturer: "DSI/Sequential"
+  model: "Evolver"
+  name: "Evolver"
+  version: "1.0.0"
+displayName: "Evolver"
+implementationVersion: "1.0.0"
+receives:
+- "VELOCITY_NOTE_ON"
+- "PITCH_BEND"
+- "NOTE_NUMBER"
+- "PROGRAM_CHANGE"
+- "CLOCK"
+- "CHANNEL_PRESSURE"
+- "POLY_PRESSURE"
+schemaVersion: "0.0.1"
+title: "Evolver MIDI Implementation"
+transmits:
+- "VELOCITY_NOTE_ON"
+- "NOTE_NUMBER"
+- "PROGRAM_CHANGE"
+- "PITCH_BEND"
+- "CLOCK"
+- "CHANNEL_PRESSURE"
+- "POLY_PRESSURE"
