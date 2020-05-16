@@ -1,0 +1,393 @@
+---
+controlChangeCommands:
+- controlChangeNumber: 1
+  name: "Mod Wheel"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 2
+  name: "Filter Mod Amount"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 3
+  name: "LFO Rate"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 4
+  name: "Pitch Mod Amount"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 5
+  name: "Glide Rate"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 7
+  name: "Master Volume"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 8
+  name: "Noise Level"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 9
+  name: "VCO 1 Wave"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 12
+  name: "VCO 2 Frequency"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 13
+  name: "VCO 2 Beat"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 14
+  name: "VCO 2 Wave"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 15
+  name: "VCO 1 Level"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 16
+  name: "VCO 2 Level"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 17
+  name: "VCO 1 Sub Level"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 18
+  name: "MultiDrive Amount"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 19
+  name: "Filter Cutoff"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 20
+  name: "Wave Mod Amount"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 21
+  name: "Filter Resonance"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 22
+  name: "Filter EG Amount"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 23
+  name: "Filter EG Attack"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 24
+  name: "Filter EG Decay"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 25
+  name: "Filter EG Sustain"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 26
+  name: "Filter EG Release"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 27
+  name: "Filter KB Amount"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 28
+  name: "Amp EG Attack"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 29
+  name: "Amp EG Decay"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 30
+  name: "Amp EG Sustain"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 31
+  name: "Amp EG Release"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 65
+  name: "Glide Enable"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 68
+  name: "Legato Glide"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 70
+  name: "Pitch Mod Osc 2 Only"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 71
+  name: "Modulation Source"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 72
+  name: "Wave Mod Destination"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 73
+  name: "Gated Glide"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 74
+  name: "VCO 1 Octave"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 75
+  name: "VCO 2 Octave"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 76
+  name: "LFO Range"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 77
+  name: "VCO 2 Hard Sync"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 78
+  name: "LFO KB Amount"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 79
+  name: "Filter EG KB Amount"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 80
+  name: "Amp EG KB Amount"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 81
+  name: "VCO Gate Reset"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 82
+  name: "Filter EG Reset"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 83
+  name: "Amp EG Reset"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 85
+  name: "Glide Type"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 86
+  name: "Filter EG Velocity to Time"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 87
+  name: "Amp EG Velocity to Time"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 88
+  name: "Release On/Off"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 89
+  name: "KB Octave"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 90
+  name: "Filter EG Gate Source"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 91
+  name: "Amp EG Gate Source"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 92
+  name: "Amp EG Velocity to Amplitude"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 93
+  name: "LFO Gate Reset"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 94
+  name: "Duo Mode"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 95
+  name: "Duo Mode Priority"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 102
+  name: "LFO MIDI Sync"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 103
+  name: "Filter EG Delay"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 104
+  name: "Amp EG Delay"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 105
+  name: "Filter EG Hold"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 106
+  name: "Amp EG Hold"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 107
+  name: "Pitch Bend Up Amount"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 108
+  name: "Pitch Bend Down Amount"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 109
+  name: "VCF Filter Poles"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 110
+  name: "Filter EG Velocity to Amplitude"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 111
+  name: "Note Priority"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 112
+  name: "Filter EG Repeat"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 113
+  name: "Amp EG Repeat"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 114
+  name: "Filter EG Trigger Mode"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 115
+  name: "Amp EG Trigger Mode"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 116
+  name: "Ext Audio Input Level"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 117
+  name: "Filter EG Decay Speed"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 118
+  name: "Amp EG Decay Speed"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 119
+  name: "KB Transpose"
+  valueRange:
+    max: 127
+    min: 0
+description: "open-midi-rtc-schema specification for Subsequent-25"
+device:
+  description: "Subsequent-25 Parameter Mappings"
+  deviceType: "SYNTHESIZER"
+  displayName: "Subsequent-25"
+  documentationResource: "moogmusic.com"
+  identifier: "04"
+  manufacturer: "Moog"
+  model: "Subsequent-25"
+  name: "Subsequent-25"
+  version: "1.0.0"
+displayName: "Subsequent-25"
+implementationVersion: "1.0.0"
+receives:
+- "VELOCITY_NOTE_ON"
+- "PITCH_BEND"
+- "NOTE_NUMBER"
+- "PROGRAM_CHANGE"
+- "CLOCK"
+schemaVersion: "0.0.1"
+title: "Subsequent-25 MIDI Implementation"
+transmits:
+- "VELOCITY_NOTE_ON"
+- "NOTE_NUMBER"
+- "PROGRAM_CHANGE"
+- "PITCH_BEND"

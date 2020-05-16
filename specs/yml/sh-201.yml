@@ -1,0 +1,414 @@
+---
+controlChangeCommands:
+- controlChangeNumber: 0
+  name: "Bank Select MSB"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 7
+  name: "Pan Level"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 10
+  name: "Part Pan"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 11
+  name: "Part Expression"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 32
+  name: "Part Bank Select LSB"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 64
+  name: "Part Hold"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 66
+  name: "Part Sostenuto"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 69
+  name: "Part Pitch"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 84
+  name: "Part Portamento Control"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 20
+  name: "Upper OSC 1 Pitch"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 76
+  name: "Upper OSC 1 Detune"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 3
+  name: "Upper OSC 1 PW"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 24
+  name: "Upper OSC 1 Pitch Env Depth"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 21
+  name: "Upper OSC 2 Pitch"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 77
+  name: "Upper OSC 2 Detune"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 95
+  name: "Upper OSC 2 PW"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 25
+  name: "Upper OSC 2 Pitch Env Depth"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 26
+  name: "Upper Pitch Env Attack"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 27
+  name: "Upper Pitch Env Decay"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 8
+  name: "Upper Mix Balance"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 74
+  name: "Upper Filter Cutoff"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 30
+  name: "Upper Filter Key Follow"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 71
+  name: "Upper Filter Resonance"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 82
+  name: "Upper Filter Env Attack"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 88
+  name: "Upper Filter Env Decay"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 28
+  name: "Upper Filter Env Sustain"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 29
+  name: "Upper Filter Env Release"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 81
+  name: "Upper Filter Env Depth"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 14
+  name: "Upper Amp Level"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 73
+  name: "Upper Amp Env Attack"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 75
+  name: "Upper Amp Env Decay"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 31
+  name: "Upper Amp Env Sustain"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 72
+  name: "Upper Amp Env Release"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 93
+  name: "Upper Delay Depth"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 91
+  name: "Upper Reverb Depth"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 16
+  name: "Upper LFO 1 Rate"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 18
+  name: "Upper LFO 1 Depth 1"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 19
+  name: "Upper LFO 1 Depth 2"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 17
+  name: "Upper LFO 2 Rate"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 22
+  name: "Upper LFO 2 Depth 1"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 23
+  name: "Upper LFO 2 Depth 2"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 78
+  name: "Lower OSC 1 Pitch"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 79
+  name: "Lower OSC 1 Detune"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 80
+  name: "Lower OSC 1 PW"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 70
+  name: "Lower OSC 1 Pitch Env Depth"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 85
+  name: "Lower OSC 2 Pitch"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 86
+  name: "Lower OSC 2 Detune"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 87
+  name: "Lower OSC 2 PW"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 88
+  name: "Lower OSC 2 Pitch Env Depth"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 89
+  name: "Lower Pitch Env Attack"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 90
+  name: "Lower Pitch Env Decay"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 9
+  name: "Lower Mix Balance"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 102
+  name: "Lower Filter Cutoff"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 103
+  name: "Lower Filter Key Follow"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 104
+  name: "Lower Filter Resonance"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 105
+  name: "Lower Filter Env Attack"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 106
+  name: "Lower Filter Env Decay"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 107
+  name: "Lower Filter Env Sustain"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 108
+  name: "Lower Filter Env Release"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 109
+  name: "Lower Filter Env Depth"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 15
+  name: "Lower Amp Level"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 110
+  name: "Lower Amp Env Attack"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 111
+  name: "Lower Amp Env Decay"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 112
+  name: "Lower Amp Env Sustain"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 113
+  name: "Lower Amp Env Release"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 94
+  name: "Lower Delay Depth"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 92
+  name: "Lower Reverb Depth"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 114
+  name: "Lower LFO 1 Rate"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 115
+  name: "Lower LFO 1 Depth 1"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 116
+  name: "Lower LFO 1 Depth 2"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 117
+  name: "Lower LFO 2 Rate"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 118
+  name: "Lower LFO 2 Depth 1"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 119
+  name: "Lower LFO 2 Depth 2"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 12
+  name: "Delay Time"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 13
+  name: "Reverb Time"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 2
+  name: "Audio Filter Cutoff"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 4
+  name: "Audio Filter Resonance"
+  valueRange:
+    max: 127
+    min: 0
+description: "open-midi-rtc-schema specification for SH-201"
+device:
+  description: "SH-201 Parameter Mappings"
+  deviceType: "SYNTHESIZER"
+  displayName: "SH-201"
+  documentationResource: "roland.com"
+  identifier: "41"
+  manufacturer: "Roland"
+  model: "SH-201"
+  name: "SH-201"
+  version: "1.0.0"
+displayName: "SH-201"
+implementationVersion: "1.0.0"
+receives:
+- "VELOCITY_NOTE_ON"
+- "VELOCITY_NOTE_OFF"
+- "PITCH_BEND"
+- "NOTE_NUMBER"
+- "PROGRAM_CHANGE"
+schemaVersion: "0.0.1"
+title: "SH-201 MIDI Implementation"
+transmits:
+- "VELOCITY_NOTE_ON"
+- "VELOCITY_NOTE_OFF"
+- "NOTE_NUMBER"
+- "PROGRAM_CHANGE"
+- "PITCH_BEND"
