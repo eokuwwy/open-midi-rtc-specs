@@ -1,0 +1,323 @@
+---
+controlChangeCommands:
+- controlChangeNumber: 7
+  name: "Headphone Volume"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 9
+  name: "Level 1"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 10
+  name: "Level 2"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 11
+  name: "Level 3"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 12
+  name: "Level 4"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 13
+  name: "Level 5"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 14
+  name: "Level 6"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 15
+  name: "Level 7"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 16
+  name: "Level 8"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 17
+  name: "Tune 1"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 18
+  name: "Tune 2"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 19
+  name: "Tune 3"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 20
+  name: "Tune 4"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 21
+  name: "Tune 5"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 22
+  name: "Tune 6"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 23
+  name: "Tune 7"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 24
+  name: "Tune 8"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 25
+  name: "Pan 1"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 26
+  name: "Pan 2"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 27
+  name: "Pan 3"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 28
+  name: "Pan 4"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 29
+  name: "Pan 5"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 30
+  name: "Pan 6"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 31
+  name: "Pan 7"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 32
+  name: "Pan 8"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 44
+  name: "Cutoff 1"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 45
+  name: "Cutoff 2"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 46
+  name: "Cutoff 3"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 47
+  name: "Cutoff 4"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 48
+  name: "Cutoff 5"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 49
+  name: "Cutoff 6"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 50
+  name: "Cutoff 7"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 51
+  name: "Cutoff 8"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 52
+  name: "Reso 1"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 53
+  name: "Reso 2"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 54
+  name: "Reso 3"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 55
+  name: "Reso 4"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 56
+  name: "Reso 5"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 57
+  name: "Reso 6"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 58
+  name: "Reso 7"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 59
+  name: "Reso 8"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 70
+  name: "Sample Number"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 71
+  name: "Pitch Env Attack"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 72
+  name: "Pitch Env Hold"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 73
+  name: "Pitch Env Decay"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 74
+  name: "Pitch Env Amount"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 75
+  name: "Filter Env Attack"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 76
+  name: "Filter Env Hold"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 77
+  name: "Filter Env Decay"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 78
+  name: "Filter Env Amount"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 79
+  name: "Amp Env Attack"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 80
+  name: "Amp Env Hold"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 81
+  name: "Amp Env Decay"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 82
+  name: "Pitch Mode"
+  valueRange:
+    max: 3
+    min: 0
+- controlChangeNumber: 91
+  name: "Division"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 92
+  name: "Groove"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 93
+  name: "Tempo Coarse"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 94
+  name: "Tempo Fine"
+  valueRange:
+    max: 2
+    min: 0
+- controlChangeNumber: 95
+  name: "Current Track"
+  valueRange:
+    max: 7
+    min: 0
+- controlChangeNumber: 95
+  name: "All Tracks"
+  valueRange:
+    max: 127
+    min: 0
+description: "open-midi-rtc-schema specification for Craftrhythm"
+device:
+  description: "Craftrhythm Parameter Mappings"
+  deviceType: "DRUM_MACHINE"
+  displayName: "Craftrhythm"
+  documentationResource: "modalelectronics.com"
+  identifier: "002107"
+  manufacturer: "Modal"
+  model: "Craftrhythm"
+  name: "Craftrhythm"
+  version: "1.0.0"
+displayName: "Craftrhythm"
+implementationVersion: "1.0.0"
+receives:
+- "CLOCK"
+- "NOTE_NUMBER"
+- "PROGRAM_CHANGE"
+schemaVersion: "0.0.1"
+title: "Craftrhythm MIDI Implementation"
+transmits:
+- "NOTE_NUMBER"

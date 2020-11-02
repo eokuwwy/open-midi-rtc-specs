@@ -1,0 +1,156 @@
+---
+controlChangeCommands:
+- controlChangeNumber: 1
+  name: "Modulation"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 5
+  name: "Portamento Time"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 7
+  name: "Volume"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 10
+  name: "Panpot"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 11
+  name: "Expression"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 64
+  name: "Hold 1"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 65
+  name: "Portamento"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 66
+  name: "Sostenuto"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 67
+  name: "Soft"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 68
+  name: "Legato Foot Switch"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 71
+  name: "Resonance"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 72
+  name: "Release Time"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 73
+  name: "Attack Time"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 74
+  name: "Cutoff"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 75
+  name: "Decay Time"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 76
+  name: "Vibrato Rate"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 77
+  name: "Vibrato Depth"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 78
+  name: "Vibrato Delay"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 80
+  name: "FILTER Knob"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 81
+  name: "MOD Knob"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 82
+  name: "FX Knob"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 83
+  name: "SOUND Knob"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 84
+  name: "Portamento Control"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 91
+  name: "General Purpose Effect 1"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 92
+  name: "General Purpose Effect 3"
+  valueRange:
+    max: 127
+    min: 0
+description: "open-midi-rtc-schema specification for MC-707/MC-101"
+device:
+  description: "MC-707/MC-101 Parameter Mappings"
+  deviceType: "SYNTHESIZER"
+  displayName: "MC-707/MC-101"
+  documentationResource: "roland.com"
+  identifier: "41"
+  manufacturer: "Roland"
+  model: "MC-707/MC-101"
+  name: "MC-707/MC-101"
+  version: "1.0.0"
+displayName: "MC-707/MC-101"
+implementationVersion: "1.0.0"
+receives:
+- "VELOCITY_NOTE_ON"
+- "VELOCITY_NOTE_OFF"
+- "CLOCK"
+- "CHANNEL_PRESSURE"
+- "PITCH_BEND"
+- "NOTE_NUMBER"
+- "PROGRAM_CHANGE"
+schemaVersion: "0.0.1"
+title: "MC-707/MC-101 MIDI Implementation"
+transmits:
+- "VELOCITY_NOTE_ON"
+- "VELOCITY_NOTE_OFF"
+- "NOTE_NUMBER"
+- "CLOCK"
+- "PROGRAM_CHANGE"

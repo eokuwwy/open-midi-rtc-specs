@@ -1,0 +1,148 @@
+---
+controlChangeCommands:
+- controlChangeNumber: 0
+  name: "Bank Select 1"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 1
+  name: "Modulation"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 5
+  name: "Portamento Time"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 7
+  name: "Volume"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 10
+  name: "Panpot"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 11
+  name: "Expression"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 32
+  name: "Bank Select 2"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 64
+  name: "Hold 1"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 65
+  name: "Portamento"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 66
+  name: "Sostenuto"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 67
+  name: "Soft"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 68
+  name: "Legato Foot Switch"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 71
+  name: "Resonance"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 72
+  name: "Release Time"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 73
+  name: "Attack Time"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 74
+  name: "Cutoff"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 75
+  name: "Decay Time"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 76
+  name: "Vibrato Rate"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 77
+  name: "Vibrato Depth"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 78
+  name: "Vibrato Delay"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 84
+  name: "Portamento Control"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 91
+  name: "General Purpose Effect 1"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 93
+  name: "General Purpose Effect 3"
+  valueRange:
+    max: 127
+    min: 0
+description: "open-midi-rtc-schema specification for Jupiter-X/Xm"
+device:
+  description: "Jupiter-X/Xm Parameter Mappings"
+  deviceType: "SYNTHESIZER"
+  displayName: "Jupiter-X/Xm"
+  documentationResource: "roland.com"
+  identifier: "41"
+  manufacturer: "Roland"
+  model: "Jupiter-X/Xm"
+  name: "Jupiter-X/Xm"
+  version: "1.0.0"
+displayName: "Jupiter-X/Xm"
+implementationVersion: "1.0.0"
+receives:
+- "NOTE_NUMBER"
+- "VELOCITY_NOTE_ON"
+- "VELOCITY_NOTE_OFF"
+- "CHANNEL_PRESSURE"
+- "CLOCK"
+- "PITCH_BEND"
+- "PROGRAM_CHANGE"
+schemaVersion: "0.0.1"
+title: "Jupiter-X/Xm MIDI Implementation"
+transmits:
+- "NOTE_NUMBER"
+- "VELOCITY_NOTE_ON"
+- "VELOCITY_NOTE_OFF"
+- "CHANNEL_PRESSURE"
+- "CLOCK"
+- "PITCH_BEND"
+- "PROGRAM_CHANGE"

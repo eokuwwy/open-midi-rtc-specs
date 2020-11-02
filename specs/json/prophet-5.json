@@ -1,0 +1,1056 @@
+{
+  "controlChangeCommands": [
+    {
+      "controlChangeNumber": 3,
+      "name": "OSC A FREQUENCY",
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 7,
+      "name": "MASTER VOLUME",
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 9,
+      "name": "OSC B FREQUENCY",
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 14,
+      "name": "OSC B FINE TUNE",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 15,
+      "name": "OSC A SAW ON/FF",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 20,
+      "name": "OSC A SQUARE ON/OFF",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 21,
+      "name": "OSC A PULSE WIDTH",
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 22,
+      "name": "OSC B PULSE WIDTH",
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 23,
+      "name": "OSC SYNC ON/OFF",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 24,
+      "name": "OSC B LOW FREQ ON/OFF",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 25,
+      "name": "OSC B KEYBOARD ON/OFF",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 26,
+      "name": "GLIDE RATE",
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 27,
+      "name": "OSC A LEVEL",
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 28,
+      "name": "OSC B LEVEL",
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 29,
+      "name": "NOISE LEVEL",
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 30,
+      "name": "OSC B SAW ON/OFF",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 31,
+      "name": "RESONANCE",
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 35,
+      "name": "FILTER KEYBOARD TRACK OFF/HALF/FULL",
+      "valueRange": {
+        "max": 2,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 41,
+      "name": "FILTER REV SELECT",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 46,
+      "name": "LFO FREQUENCY",
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 47,
+      "name": "LFO INITIAL AMOUNT",
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 52,
+      "name": "OSC B TRI ON/OFF",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 53,
+      "name": "LFO SOURCE MIX",
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 54,
+      "name": "LFO FREQ A ON/OFF",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 55,
+      "name": "LFO FREQ B ON/OFF",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 56,
+      "name": "LFO FREQ PW A ON/OFF",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 57,
+      "name": "LFO FREQ PW B ON/OFF",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 58,
+      "name": "LFO FILTER ON/OFF",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 59,
+      "name": "POLY MOD FILT ENV AMOUNT",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 60,
+      "name": "POLY MOD OSC B AMOUNT",
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 61,
+      "name": "POLY MOD FREQ A ON/OFF",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 62,
+      "name": "POLY MOD PW ON/OFF",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 63,
+      "name": "POLY MOD FILTER ON/OFF",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 70,
+      "name": "PITCH WHEEL RANGE",
+      "valueRange": {
+        "max": 11,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 71,
+      "name": "RETRIGGER AND UNISON ASSIGN",
+      "valueRange": {
+        "max": 3,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 73,
+      "name": "CUTOFF",
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 74,
+      "name": "BRIGHTNESS",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 85,
+      "name": "VINTAGE",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 86,
+      "name": "PRESSURE FILTER",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 87,
+      "name": "PRESSURE LFO",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 89,
+      "name": "ENVELOPE FILTER AMOUNT",
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 90,
+      "name": "ENVELOPE FILTER VELOCITY ON/OFF",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 102,
+      "name": "ENVELOPE VCA VELOCITY ON/OFF",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 103,
+      "name": "ATTACK FILTER",
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 104,
+      "name": "ATTACK VCA",
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 105,
+      "name": "DECAY FILTER",
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 106,
+      "name": "DECAY VCA",
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 107,
+      "name": "SUSTAIN FILTER",
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 108,
+      "name": "SUSTAIN VCA",
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 109,
+      "name": "RELEASE FILTER",
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 110,
+      "name": "RELEASE VCA",
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 111,
+      "name": "RELEASE ON/OFF",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 112,
+      "name": "UNISON ON/OFF",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 113,
+      "name": "UNISON VOICE COUNT",
+      "valueRange": {
+        "max": 10,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 114,
+      "name": "UNISON DETUNE",
+      "valueRange": {
+        "max": 7,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 116,
+      "name": "OSC B SQUARE ON/OFF",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 117,
+      "name": "LFO SAW ON/OFF",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 118,
+      "name": "LFO TRI ON/OFF",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 119,
+      "name": "LFO SQUARE ON/OFF",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    }
+  ],
+  "description": "open-midi-rtc-schema specification for Prophet-5/10 (Rev4)",
+  "device": {
+    "description": "Prophet-5/10 (Rev4) Parameter Mappings",
+    "deviceType": "SYNTHESIZER",
+    "displayName": "Prophet-5/10 (Rev4)",
+    "documentationResource": "sequential.com",
+    "identifier": "01",
+    "manufacturer": "DSI/Sequential",
+    "model": "Prophet-5/10 (Rev4)",
+    "name": "Prophet-5/10 (Rev4)",
+    "version": "1.0.0"
+  },
+  "displayName": "Prophet-5/10 (Rev4)",
+  "implementationVersion": "1.0.0",
+  "nrpnCommands": [
+    {
+      "name": "OSC A FREQUENCY",
+      "parameterNumber": 0,
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "name": "OSC B FREQUENCY",
+      "parameterNumber": 1,
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "name": "OSC B FINE TUNE",
+      "parameterNumber": 2,
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "name": "OSC A SAW ON/FF",
+      "parameterNumber": 3,
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "name": "OSC A SQUARE ON/OFF",
+      "parameterNumber": 4,
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "name": "OSC B SAW ON/OFF",
+      "parameterNumber": 5,
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "name": "OSC B TRI ON/OFF",
+      "parameterNumber": 6,
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "name": "OSC B SQUARE ON/OFF",
+      "parameterNumber": 7,
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "name": "OSC A PULSE WIDTH",
+      "parameterNumber": 8,
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "name": "OSC B PULSE WIDTH",
+      "parameterNumber": 9,
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "name": "OSC SYNC ON/OFF",
+      "parameterNumber": 10,
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "name": "OSC B LOW FREQ ON/OFF",
+      "parameterNumber": 11,
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "name": "OSC B KEYBOARD ON/OFF",
+      "parameterNumber": 12,
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "name": "GLIDE RATE",
+      "parameterNumber": 13,
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "name": "OSC A LEVEL",
+      "parameterNumber": 14,
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "name": "OSC B LEVEL",
+      "parameterNumber": 15,
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "name": "NOISE LEVEL",
+      "parameterNumber": 16,
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "name": "CUTOFF",
+      "parameterNumber": 17,
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "name": "RESONANCE",
+      "parameterNumber": 18,
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "name": "FILTER KEYBOARD TRACK OFF/HALF/FULL",
+      "parameterNumber": 19,
+      "valueRange": {
+        "max": 2,
+        "min": 0
+      }
+    },
+    {
+      "name": "FILTER REV SELECT",
+      "parameterNumber": 20,
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "name": "LFO FREQUENCY",
+      "parameterNumber": 21,
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "name": "LFO INITIAL AMOUNT",
+      "parameterNumber": 22,
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "name": "LFO SAW ON/OFF",
+      "parameterNumber": 23,
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "name": "LFO TRI ON/OFF",
+      "parameterNumber": 24,
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "name": "LFO SQUARE ON/OFF",
+      "parameterNumber": 25,
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "name": "LFO SOURCE MIX",
+      "parameterNumber": 26,
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "name": "LFO FREQ A ON/OFF",
+      "parameterNumber": 27,
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "name": "LFO FREQ B ON/OFF",
+      "parameterNumber": 28,
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "name": "LFO FREQ PW A ON/OFF",
+      "parameterNumber": 29,
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "name": "LFO FREQ PW B ON/OFF",
+      "parameterNumber": 30,
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "name": "LFO FILTER ON/OFF",
+      "parameterNumber": 31,
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "name": "POLY MOD FILT ENV AMOUNT",
+      "parameterNumber": 32,
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "name": "POLY MOD OSC B AMOUNT",
+      "parameterNumber": 33,
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "name": "POLY MOD FREQ A ON/OFF",
+      "parameterNumber": 34,
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "name": "POLY MOD PW ON/OFF",
+      "parameterNumber": 35,
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "name": "POLY MOD FILTER ON/OFF",
+      "parameterNumber": 36,
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "name": "VINTAGE",
+      "parameterNumber": 37,
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "name": "AFTERTOUCH > FILTER",
+      "parameterNumber": 38,
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "name": "AFTERTOUCH > AMP",
+      "parameterNumber": 39,
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "name": "ENV FILTER AMOUNT",
+      "parameterNumber": 40,
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "name": "VELOCTIY > FILTER",
+      "parameterNumber": 41,
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "name": "VELOCITY > AMP",
+      "parameterNumber": 42,
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "name": "ATTACK FILTER",
+      "parameterNumber": 43,
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "name": "ATTACK VCA",
+      "parameterNumber": 44,
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "name": "DECAY FILTER",
+      "parameterNumber": 45,
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "name": "DECAY VCA",
+      "parameterNumber": 46,
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "name": "SUSTAIN FILTER",
+      "parameterNumber": 47,
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "name": "SUSTAIN VCA",
+      "parameterNumber": 48,
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "name": "RELEASE FILTER",
+      "parameterNumber": 49,
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "name": "RELEASE VCA",
+      "parameterNumber": 50,
+      "valueRange": {
+        "max": 120,
+        "min": 0
+      }
+    },
+    {
+      "name": "RELEASE SWITCH",
+      "parameterNumber": 51,
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "name": "UNISON ON/OFF",
+      "parameterNumber": 52,
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "name": "UNISON VOICE COUNT",
+      "parameterNumber": 53,
+      "valueRange": {
+        "max": 10,
+        "min": 0
+      }
+    },
+    {
+      "name": "UNISON DETUNE",
+      "parameterNumber": 54,
+      "valueRange": {
+        "max": 7,
+        "min": 0
+      }
+    },
+    {
+      "name": "UNISON NOTE 1",
+      "parameterNumber": 55,
+      "valueRange": {
+        "max": 10,
+        "min": 1
+      }
+    },
+    {
+      "name": "UNISON NOTE 2",
+      "parameterNumber": 56,
+      "valueRange": {
+        "max": 10,
+        "min": 1
+      }
+    },
+    {
+      "name": "UNISON NOTE 3",
+      "parameterNumber": 57,
+      "valueRange": {
+        "max": 10,
+        "min": 1
+      }
+    },
+    {
+      "name": "UNISON NOTE 4",
+      "parameterNumber": 58,
+      "valueRange": {
+        "max": 10,
+        "min": 1
+      }
+    },
+    {
+      "name": "UNISON NOTE 5",
+      "parameterNumber": 59,
+      "valueRange": {
+        "max": 10,
+        "min": 1
+      }
+    },
+    {
+      "name": "UNISON NOTE 6",
+      "parameterNumber": 60,
+      "valueRange": {
+        "max": 10,
+        "min": 1
+      }
+    },
+    {
+      "name": "UNISON NOTE 7",
+      "parameterNumber": 61,
+      "valueRange": {
+        "max": 10,
+        "min": 1
+      }
+    },
+    {
+      "name": "UNISON NOTE 8",
+      "parameterNumber": 62,
+      "valueRange": {
+        "max": 10,
+        "min": 1
+      }
+    },
+    {
+      "name": "UNISON NOTE 9",
+      "parameterNumber": 63,
+      "valueRange": {
+        "max": 10,
+        "min": 1
+      }
+    },
+    {
+      "name": "UNISON NOTE 10",
+      "parameterNumber": 64,
+      "valueRange": {
+        "max": 10,
+        "min": 1
+      }
+    },
+    {
+      "name": "PITCH WHEEL RANGE",
+      "parameterNumber": 86,
+      "valueRange": {
+        "max": 11,
+        "min": 0
+      }
+    },
+    {
+      "name": "RETRIGGER AND UNISON",
+      "parameterNumber": 87,
+      "valueRange": {
+        "max": 3,
+        "min": 0
+      }
+    },
+    {
+      "name": "TRANSPOSE",
+      "parameterNumber": 4096,
+      "valueRange": {
+        "max": 24,
+        "min": 0
+      }
+    }
+  ],
+  "receives": [
+    "VELOCITY_NOTE_ON",
+    "VELOCITY_NOTE_OFF",
+    "CHANNEL_PRESSURE",
+    "POLY_PRESSURE",
+    "PITCH_BEND",
+    "NOTE_NUMBER",
+    "PROGRAM_CHANGE"
+  ],
+  "schemaVersion": "0.0.1",
+  "sysexCommands": [],
+  "title": "Prophet-5/10 (Rev4) MIDI Implementation",
+  "transmits": [
+    "VELOCITY_NOTE_ON",
+    "VELOCITY_NOTE_OFF",
+    "NOTE_NUMBER",
+    "CHANNEL_PRESSURE",
+    "PROGRAM_CHANGE",
+    "PITCH_BEND"
+  ]
+}

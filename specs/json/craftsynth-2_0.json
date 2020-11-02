@@ -1,0 +1,591 @@
+{
+  "controlChangeCommands": [
+    {
+      "controlChangeNumber": 1,
+      "name": "Modulation Wheel",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 5,
+      "name": "Glide",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 7,
+      "name": "Headphone Volume",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 11,
+      "name": "Expression Pedal",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 12,
+      "name": "Distortion",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 13,
+      "name": "Delay",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 14,
+      "name": "Delay Time",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 15,
+      "name": "Delay Feedback",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 16,
+      "name": "Osc1 Wave",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 17,
+      "name": "Osc2 Wave",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 18,
+      "name": "Osc Mix",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 19,
+      "name": "Osc-Mod Amount",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 20,
+      "name": "Spread",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 22,
+      "name": "FEG Attack",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 23,
+      "name": "FEG Decay",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 24,
+      "name": "FEG Sustain",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 25,
+      "name": "FEG Release",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 26,
+      "name": "AEG Attack",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 27,
+      "name": "AEG Decay",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 28,
+      "name": "AEG Sustain",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 29,
+      "name": "AEG Release",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 30,
+      "name": "Osc2 Coarse Detune",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 31,
+      "name": "Osc2 Fine Detune",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 32,
+      "name": "FEG Amount",
+      "valueRange": {
+        "max": 63,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 33,
+      "name": "Morph",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 34,
+      "name": "Cutoff",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 35,
+      "name": "Reso",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 36,
+      "name": "LFO1 Rate",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 37,
+      "name": "LFO1 Depth",
+      "valueRange": {
+        "max": 63,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 39,
+      "name": "LFO1 Shape",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 40,
+      "name": "Octave",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 41,
+      "name": "Osc-Mod Mode",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 43,
+      "name": "MEG Attack",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 44,
+      "name": "MEG Decay",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 45,
+      "name": "MEG Sustain",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 46,
+      "name": "MEG Release",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 47,
+      "name": "LFO2 Rate",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 48,
+      "name": "LFO2 Depth",
+      "valueRange": {
+        "max": 63,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 50,
+      "name": "LFO2 Shape",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 51,
+      "name": "AEG Amount",
+      "valueRange": {
+        "max": 63,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 52,
+      "name": "LFO1 MIDI Sync",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 54,
+      "name": "LFO2 MIDI Sync",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 55,
+      "name": "Delay MIDI Sync",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 56,
+      "name": "LFO1 Mode",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 57,
+      "name": "LFO2 Mode",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 58,
+      "name": "Arp Status",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 64,
+      "name": "Sustain Pedal",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 73,
+      "name": "Scale",
+      "valueRange": {
+        "max": 7,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 79,
+      "name": "Root Note",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 84,
+      "name": "All Envelope Attack",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 85,
+      "name": "All Envelope Decay",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 86,
+      "name": "All Envelope Sustain",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 87,
+      "name": "All Envelope Release",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 88,
+      "name": "Mod Slot 1 Depth",
+      "valueRange": {
+        "max": 63,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 89,
+      "name": "Mod Slot 2 Depth",
+      "valueRange": {
+        "max": 63,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 90,
+      "name": "Mod Slot 3 Depth",
+      "valueRange": {
+        "max": 63,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 91,
+      "name": "Mod Slot 4 Depth",
+      "valueRange": {
+        "max": 63,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 92,
+      "name": "Mod Slot 5 Depth",
+      "valueRange": {
+        "max": 63,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 93,
+      "name": "Mod Slot 6 Depth",
+      "valueRange": {
+        "max": 63,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 94,
+      "name": "Mod Slot 7 Depth",
+      "valueRange": {
+        "max": 63,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 95,
+      "name": "Mod Slot 8 Depth",
+      "valueRange": {
+        "max": 63,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 101,
+      "name": "Mod Slot 1 Dest",
+      "valueRange": {
+        "max": 36,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 102,
+      "name": "Mod Slot 2 Dest",
+      "valueRange": {
+        "max": 36,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 103,
+      "name": "Mod Slot 3 Dest",
+      "valueRange": {
+        "max": 36,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 104,
+      "name": "Mod Slot 4 Dest",
+      "valueRange": {
+        "max": 36,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 105,
+      "name": "Mod Slot 5 Dest",
+      "valueRange": {
+        "max": 36,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 106,
+      "name": "Mod Slot 6 Dest",
+      "valueRange": {
+        "max": 36,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 107,
+      "name": "Mod Slot 7 Dest",
+      "valueRange": {
+        "max": 36,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 108,
+      "name": "Mod Slot 8 Dest",
+      "valueRange": {
+        "max": 36,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 121,
+      "name": "Randomise Patch",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    }
+  ],
+  "description": "open-midi-rtc-schema specification for Craftsynth 2.0",
+  "device": {
+    "description": "Craftsynth 2.0 Parameter Mappings",
+    "deviceType": "SYNTHESIZER",
+    "displayName": "Craftsynth 2.0",
+    "documentationResource": "modalelectronics.com",
+    "identifier": "002107",
+    "manufacturer": "Modal",
+    "model": "Craftsynth 2.0",
+    "name": "Craftsynth 2.0",
+    "version": "1.0.0"
+  },
+  "displayName": "Craftsynth 2.0",
+  "implementationVersion": "1.0.0",
+  "receives": [
+    "VELOCITY_NOTE_ON",
+    "CLOCK",
+    "CHANNEL_PRESSURE",
+    "PITCH_BEND",
+    "NOTE_NUMBER",
+    "PROGRAM_CHANGE"
+  ],
+  "schemaVersion": "0.0.1",
+  "title": "Craftsynth 2.0 MIDI Implementation",
+  "transmits": [
+    "NOTE_NUMBER"
+  ]
+}
