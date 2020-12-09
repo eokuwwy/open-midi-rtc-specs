@@ -116,3 +116,5 @@ receives:
 - "PROGRAM_CHANGE"
 schemaVersion: "0.0.1"
 title: "Streichfett MIDI Implementation"
+transmits:
+

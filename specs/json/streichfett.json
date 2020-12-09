@@ -175,5 +175,6 @@
     "PROGRAM_CHANGE"
   ],
   "schemaVersion": "0.0.1",
-  "title": "Streichfett MIDI Implementation"
+  "title": "Streichfett MIDI Implementation",
+  "transmits": []
 }

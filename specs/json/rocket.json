@@ -184,5 +184,6 @@
     "CHANNEL_PRESSURE"
   ],
   "schemaVersion": "0.0.1",
-  "title": "Rocket MIDI Implementation"
+  "title": "Rocket MIDI Implementation",
+  "transmits": []
 }
