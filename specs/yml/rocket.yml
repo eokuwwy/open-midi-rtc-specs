@@ -1,0 +1,124 @@
+---
+controlChangeCommands:
+- controlChangeNumber: 1
+  name: "Modulation"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 70
+  name: "Osc Wave"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 79
+  name: "Osc Tune"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 31
+  name: "Osc Shape"
+  valueRange:
+    max: 1
+    min: 0
+- controlChangeNumber: 74
+  name: "Cutoff"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 71
+  name: "Resonance"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 73
+  name: "Env Mod"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 83
+  name: "Keytrack"
+  valueRange:
+    max: 2
+    min: 0
+- controlChangeNumber: 76
+  name: "LFO Speed"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 77
+  name: "LFO Depth"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 78
+  name: "LFO Shape"
+  valueRange:
+    max: 2
+    min: 0
+- controlChangeNumber: 80
+  name: "Vibrato Mod LFO"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 75
+  name: "ENV Decay"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 103
+  name: "ENV Sustain"
+  valueRange:
+    max: 1
+    min: 0
+- controlChangeNumber: 72
+  name: "ENV Release"
+  valueRange:
+    max: 1
+    min: 0
+- controlChangeNumber: 5
+  name: "Glide"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 14
+  name: "Arp Tempo"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 12
+  name: "Arp Range"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 13
+  name: "Arp Direction"
+  valueRange:
+    max: 2
+    min: 0
+- controlChangeNumber: 64
+  name: "Sustain Pedal"
+  valueRange:
+    max: 64
+    min: 0
+description: "open-midi-rtc-schema specification for Rocket"
+device:
+  description: "Rocket Parameter Mappings"
+  deviceType: "SYNTHESIZER"
+  displayName: "Rocket"
+  documentationResource: "waldorfmusic.com"
+  identifier: "03EH"
+  manufacturer: "Waldorf"
+  model: "Rocket"
+  name: "Rocket"
+  version: "1.0.0"
+displayName: "Rocket"
+implementationVersion: "1.0.0"
+receives:
+- "VELOCITY_NOTE_ON"
+- "VELOCITY_NOTE_OFF"
+- "PITCH_BEND"
+- "NOTE_NUMBER"
+- "PROGRAM_CHANGE"
+- "CHANNEL_PRESSURE"
+schemaVersion: "0.0.1"
+title: "Rocket MIDI Implementation"

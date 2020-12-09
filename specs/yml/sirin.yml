@@ -1,0 +1,205 @@
+---
+controlChangeCommands:
+- controlChangeNumber: 1
+  name: "MOD WHEEL"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 3
+  name: "LFO RATE"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 13
+  name: "LFO VCO AMOUNT"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 12
+  name: "LFO VCF AMOUNT"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 87
+  name: "LFO MIDI SYNC"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 86
+  name: "LFO SYNC CLOCK DIV"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 82
+  name: "LFO KEY TRIGGER"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 70
+  name: "VCO 1 WAVE"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 71
+  name: "VCO 2 WAVE"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 17
+  name: "VCO 2 FREQ"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 18
+  name: "VCO 2 BEAT"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 81
+  name: "NOTE SYNC"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 5
+  name: "GLIDE RATE"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 65
+  name: "GLIDE SWITCH"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 92
+  name: "GLIDE TYPE"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 83
+  name: "LEGATO GLIDE"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 15
+  name: "VCO 1 LEVEL"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 16
+  name: "VCO 2 LEVEL"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 27
+  name: "EXTERNAL IN LEVEL"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 19
+  name: "CUTOFF"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 21
+  name: "RESONANCE"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 22
+  name: "EG AMOUNT"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 20
+  name: "FILTER KB TRACK"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 23
+  name: "VCF ATTACK"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 24
+  name: "VCF DECAY/RELEASE"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 25
+  name: "VCF SUSTAIN"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 28
+  name: "VCA ATTACK"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 29
+  name: "VCA DECAY/RELEASE"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 30
+  name: "VCA SUSTAIN"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 72
+  name: "RELEASE SWITCH"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 73
+  name: "TRIGGER MODE"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 7
+  name: "VCA OUTPUT LEVEL"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 90
+  name: "VOLUME VELOCITY SENSITIVITY"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 91
+  name: "KEY PRIORITY"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 107
+  name: "BEND UP AMOUNT"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 108
+  name: "BEND DOWN AMOUNT"
+  valueRange:
+    max: 127
+    min: 0
+description: "open-midi-rtc-schema specification for Sirin"
+device:
+  description: "Sirin Parameter Mappings"
+  deviceType: "SYNTHESIZER"
+  displayName: "Sirin"
+  documentationResource: "moogmusic.com"
+  identifier: "4H"
+  manufacturer: "Moog"
+  model: "Sirin"
+  name: "Sirin"
+  version: "1.0.0"
+displayName: "Sirin"
+implementationVersion: "1.0.0"
+receives:
+- "VELOCITY_NOTE_ON"
+- "CLOCK"
+- "PITCH_BEND"
+- "NOTE_NUMBER"
+- "PROGRAM_CHANGE"
+schemaVersion: "0.0.1"
+title: "Sirin MIDI Implementation"
+transmits:
+- "PROGRAM_CHANGE"

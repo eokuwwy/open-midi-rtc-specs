@@ -1,0 +1,118 @@
+---
+controlChangeCommands:
+- controlChangeNumber: 1
+  name: "Modulation Wheel"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 64
+  name: "Sustain Pedal"
+  valueRange:
+    max: 64
+    min: 0
+- controlChangeNumber: 70
+  name: "String Registration"
+  valueRange:
+    max: 2
+    min: 0
+- controlChangeNumber: 71
+  name: "String Octaves"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 72
+  name: "String Release"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 73
+  name: "Crescendo"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 74
+  name: "String Ensemble Type"
+  valueRange:
+    max: 2
+    min: 0
+- controlChangeNumber: 75
+  name: "String Ensemble"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 76
+  name: "Solo Tone"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 77
+  name: "Solo Tremolo"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 78
+  name: "Solo Split"
+  valueRange:
+    max: 2
+    min: 0
+- controlChangeNumber: 79
+  name: "Solo Sustain"
+  valueRange:
+    max: 1
+    min: 0
+- controlChangeNumber: 80
+  name: "Solo Attack"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 81
+  name: "Solo Decay"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 82
+  name: "Balance"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 91
+  name: "FX Type"
+  valueRange:
+    max: 2
+    min: 0
+- controlChangeNumber: 92
+  name: "FX Animate amount"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 93
+  name: "FX Phaser amount"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 94
+  name: "FX Reverb amount"
+  valueRange:
+    max: 127
+    min: 0
+description: "open-midi-rtc-schema specification for Streichfett"
+device:
+  description: "Streichfett Parameter Mappings"
+  deviceType: "SYNTHESIZER"
+  displayName: "Streichfett"
+  documentationResource: "waldorfmusic.com"
+  identifier: "03EH"
+  manufacturer: "Waldorf"
+  model: "Streichfett"
+  name: "Streichfett"
+  version: "1.0.0"
+displayName: "Streichfett"
+implementationVersion: "1.0.0"
+receives:
+- "VELOCITY_NOTE_ON"
+- "VELOCITY_NOTE_OFF"
+- "PITCH_BEND"
+- "NOTE_NUMBER"
+- "PROGRAM_CHANGE"
+schemaVersion: "0.0.1"
+title: "Streichfett MIDI Implementation"
