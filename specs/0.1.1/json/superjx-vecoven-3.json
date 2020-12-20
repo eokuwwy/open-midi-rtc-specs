@@ -1,19 +1,19 @@
 {
   "controlChangeCommands": [],
   "controlChangeSequenceCommands": [],
-  "description": "open-midi-rtc-schema specification for JX-10 Vecoven 3.x",
+  "description": "open-midi-rtc-schema specification for Super JX Vecoven 3.x",
   "device": {
-    "description": "JX-10 Vecoven 3.x Parameter Mappings",
+    "description": "Super JX Vecoven 3.x Parameter Mappings",
     "deviceType": "SYNTHESIZER",
-    "displayName": "JX-10 Vecoven 3.x",
+    "displayName": "Super JX Vecoven 3.x",
     "documentationResource": "roland.com",
     "identifier": "41",
     "manufacturer": "Roland",
-    "model": "JX-10 Vecoven 3.x",
-    "name": "JX-10 Vecoven 3.x",
+    "model": "Super JX Vecoven 3.x",
+    "name": "Super JX Vecoven 3.x",
     "version": "1.0.0"
   },
-  "displayName": "JX-10 Vecoven 3.x",
+  "displayName": "Super JX Vecoven 3.x",
   "implementationVersion": "1.0.0",
   "nrpnCommands": [
     {
@@ -2620,7 +2620,7 @@
       ]
     }
   ],
-  "title": "JX-10_Vecoven3 MIDI Implementation",
+  "title": "Super JX Vecoven 3.x MIDI Implementation",
   "transmits": [
     "CLOCK",
     "VELOCITY_NOTE_ON",
