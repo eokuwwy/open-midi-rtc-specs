@@ -1,0 +1,4313 @@
+{
+  "controlChangeCommands": [],
+  "controlChangeSequenceCommands": [],
+  "description": "open-midi-rtc-schema specification for Super JX Vecoven 4.x PWM",
+  "device": {
+    "description": "Super JX Vecoven 4.x PWM Parameter Mappings",
+    "deviceType": "SYNTHESIZER",
+    "displayName": "Super JX Vecoven 4.x PWM",
+    "documentationResource": "roland.com",
+    "identifier": "41",
+    "manufacturer": "Roland",
+    "model": "Super JX Vecoven 4.x PWM",
+    "name": "Super JX Vecoven 4.x PWM",
+    "version": "1.0.0"
+  },
+  "displayName": "Super JX Vecoven 4.x PWM",
+  "implementationVersion": "1.0.0",
+  "nrpnCommands": [
+    {
+      "name": "DCO 1 Range Upper",
+      "parameterNumberLSB": 0,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 1 Range Lower",
+      "parameterNumberLSB": 0,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 1 Range Both",
+      "parameterNumberLSB": 0,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 1 WF Upper",
+      "parameterNumberLSB": 1,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 1 WF Lower",
+      "parameterNumberLSB": 1,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 1 WF Both",
+      "parameterNumberLSB": 1,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 1 Tune Upper",
+      "parameterNumberLSB": 2,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 1 Tune Lower",
+      "parameterNumberLSB": 2,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 1 Tune Both",
+      "parameterNumberLSB": 2,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 1 LFO Upper",
+      "parameterNumberLSB": 3,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 1 LFO Lower",
+      "parameterNumberLSB": 3,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 1 LFO Both",
+      "parameterNumberLSB": 3,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 1 LFO Sel Upper",
+      "parameterNumberLSB": 4,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 1 LFO Sel Lower",
+      "parameterNumberLSB": 4,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 1 LFO Sel Both",
+      "parameterNumberLSB": 4,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 1 Env Upper",
+      "parameterNumberLSB": 5,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 1 Env Lower",
+      "parameterNumberLSB": 5,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 1 Env Both",
+      "parameterNumberLSB": 5,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 1 Dyna Upper",
+      "parameterNumberLSB": 6,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 1 Dyna Lower",
+      "parameterNumberLSB": 6,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 1 Dyna Both",
+      "parameterNumberLSB": 6,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 1 Mode Upper",
+      "parameterNumberLSB": 7,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 1 Mode Lower",
+      "parameterNumberLSB": 7,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 1 Mode Both",
+      "parameterNumberLSB": 7,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 2 Range Upper",
+      "parameterNumberLSB": 8,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 2 Range Lower",
+      "parameterNumberLSB": 8,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 2 Range Both",
+      "parameterNumberLSB": 8,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 2 WF Upper",
+      "parameterNumberLSB": 9,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 2 WF Lower",
+      "parameterNumberLSB": 9,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 2 WF Both",
+      "parameterNumberLSB": 9,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 2 Tune Upper",
+      "parameterNumberLSB": 10,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 2 Tune Lower",
+      "parameterNumberLSB": 10,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 2 Tune Both",
+      "parameterNumberLSB": 10,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 2 LFO Upper",
+      "parameterNumberLSB": 11,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 2 LFO Lower",
+      "parameterNumberLSB": 11,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 2 LFO Both",
+      "parameterNumberLSB": 11,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 2 LFO Sel Upper",
+      "parameterNumberLSB": 12,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 2 LFO Sel Lower",
+      "parameterNumberLSB": 12,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 2 LFO Sel Both",
+      "parameterNumberLSB": 12,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 2 Env Upper",
+      "parameterNumberLSB": 13,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 2 Env Lower",
+      "parameterNumberLSB": 13,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 2 Env Both",
+      "parameterNumberLSB": 13,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 2 Dyna Upper",
+      "parameterNumberLSB": 14,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 2 Dyna Lower",
+      "parameterNumberLSB": 14,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 2 Dyna Both",
+      "parameterNumberLSB": 14,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 2 Mode Upper",
+      "parameterNumberLSB": 15,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 2 Mode Lower",
+      "parameterNumberLSB": 15,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 2 Mode Both",
+      "parameterNumberLSB": 15,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO Xmod Upper",
+      "parameterNumberLSB": 16,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO Xmod Lower",
+      "parameterNumberLSB": 16,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO Xmod Both",
+      "parameterNumberLSB": 16,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 2 FTune Upper",
+      "parameterNumberLSB": 17,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 2 FTune Lower",
+      "parameterNumberLSB": 17,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "DCO 2 FTune Both",
+      "parameterNumberLSB": 17,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "HPF Freq Upper",
+      "parameterNumberLSB": 18,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "HPF Freq Lower",
+      "parameterNumberLSB": 18,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "HPF Freq Both",
+      "parameterNumberLSB": 18,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Chorus Upper",
+      "parameterNumberLSB": 19,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Chorus Lower",
+      "parameterNumberLSB": 19,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Chorus Both",
+      "parameterNumberLSB": 19,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "PWM1 Width Upper",
+      "parameterNumberLSB": 20,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "PWM1 Width Lower",
+      "parameterNumberLSB": 20,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "PWM1 Width Both",
+      "parameterNumberLSB": 20,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "PWM1 Env Upper",
+      "parameterNumberLSB": 21,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "PWM1 Env Lower",
+      "parameterNumberLSB": 21,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "PWM1 Env Both",
+      "parameterNumberLSB": 21,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "PWM1 LFO Upper",
+      "parameterNumberLSB": 22,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "PWM1 LFO Lower",
+      "parameterNumberLSB": 22,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "PWM1 LFO Both",
+      "parameterNumberLSB": 22,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "PWM1 LFO Sel Upper",
+      "parameterNumberLSB": 23,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "PWM1 LFO Sel Lower",
+      "parameterNumberLSB": 23,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "PWM1 LFO Sel Both",
+      "parameterNumberLSB": 23,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "PWM1 Dyna",
+      "parameterNumberLSB": 24,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "PWM1 Dyna Lower",
+      "parameterNumberLSB": 24,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "PWM1 Dyna Both",
+      "parameterNumberLSB": 24,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "PWM1 Mode",
+      "parameterNumberLSB": 25,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "PWM1 Mode Lower",
+      "parameterNumberLSB": 25,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "PWM1 Mode Both",
+      "parameterNumberLSB": 25,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "PWM2 Width Upper",
+      "parameterNumberLSB": 26,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "PWM2 Width Lower",
+      "parameterNumberLSB": 26,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "PWM2 Width Both",
+      "parameterNumberLSB": 26,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "PWM2 Env Upper",
+      "parameterNumberLSB": 27,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "PWM2 Env Lower",
+      "parameterNumberLSB": 27,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "PWM2 Env Both",
+      "parameterNumberLSB": 27,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "PWM2 LFO Upper",
+      "parameterNumberLSB": 28,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "PWM2 LFO Lower",
+      "parameterNumberLSB": 28,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "PWM2 LFO Both",
+      "parameterNumberLSB": 28,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "PWM2 LFO Sel Upper",
+      "parameterNumberLSB": 29,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "PWM2 LFO Sel Lower",
+      "parameterNumberLSB": 29,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "PWM2 LFO Sel Both",
+      "parameterNumberLSB": 29,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "PWM2 Dyna",
+      "parameterNumberLSB": 30,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "PWM2 Dyna Lower",
+      "parameterNumberLSB": 30,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "PWM2 Dyna Both",
+      "parameterNumberLSB": 30,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "PWM2 Mode",
+      "parameterNumberLSB": 31,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "PWM2 Mode Lower",
+      "parameterNumberLSB": 31,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "PWM2 Mode Both",
+      "parameterNumberLSB": 31,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Mix DCO 1 Upper",
+      "parameterNumberLSB": 32,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Mix DCO 1 Lower",
+      "parameterNumberLSB": 32,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Mix DCO 1 Both",
+      "parameterNumberLSB": 32,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Mix DCO 2 Upper",
+      "parameterNumberLSB": 33,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Mix DCO 2 Lower",
+      "parameterNumberLSB": 33,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Mix DCO 2 Both",
+      "parameterNumberLSB": 33,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Mixer Env Upper",
+      "parameterNumberLSB": 34,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Mixer Env Lower",
+      "parameterNumberLSB": 34,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Mixer Env Both",
+      "parameterNumberLSB": 34,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Mixer Dyna Upper",
+      "parameterNumberLSB": 35,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Mixer Dyna Lower",
+      "parameterNumberLSB": 35,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Mixer Dyna Both",
+      "parameterNumberLSB": 35,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Mixer Mode Upper",
+      "parameterNumberLSB": 36,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Mixer Mode Lower",
+      "parameterNumberLSB": 36,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Mixer Mode Both",
+      "parameterNumberLSB": 36,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "VCF Freq Upper",
+      "parameterNumberLSB": 37,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "VCF Freq Lower",
+      "parameterNumberLSB": 37,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "VCF Freq Both",
+      "parameterNumberLSB": 37,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "VCF Res Upper",
+      "parameterNumberLSB": 38,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "VCF Res Lower",
+      "parameterNumberLSB": 38,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "VCF Res Both",
+      "parameterNumberLSB": 38,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "VCF LFO1 Upper",
+      "parameterNumberLSB": 39,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "VCF LFO1 Lower",
+      "parameterNumberLSB": 39,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "VCF LFO1 Both",
+      "parameterNumberLSB": 39,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "VCF LFO2 Upper",
+      "parameterNumberLSB": 40,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "VCF LFO2 Lower",
+      "parameterNumberLSB": 40,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "VCF LFO2 Both",
+      "parameterNumberLSB": 40,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "VCF Env Upper",
+      "parameterNumberLSB": 41,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "VCF Env Lower",
+      "parameterNumberLSB": 41,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "VCF Env Both",
+      "parameterNumberLSB": 41,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "VCF Key Upper",
+      "parameterNumberLSB": 42,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "VCF Key Lower",
+      "parameterNumberLSB": 42,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "VCF Key Both",
+      "parameterNumberLSB": 42,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "VCF Dyna Upper",
+      "parameterNumberLSB": 43,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "VCF Dyna Lower",
+      "parameterNumberLSB": 43,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "VCF Dyna Both",
+      "parameterNumberLSB": 43,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "VCF Mode Upper",
+      "parameterNumberLSB": 44,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "VCF Mode Lower",
+      "parameterNumberLSB": 44,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "VCF Mode Both",
+      "parameterNumberLSB": 44,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "VCA Level Upper",
+      "parameterNumberLSB": 45,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "VCA Level Lower",
+      "parameterNumberLSB": 45,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "VCA Level Both",
+      "parameterNumberLSB": 45,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "VCA Mode Upper",
+      "parameterNumberLSB": 46,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "VCA Mode Lower",
+      "parameterNumberLSB": 46,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "VCA Mode Both",
+      "parameterNumberLSB": 46,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "VCA Dyna Upper",
+      "parameterNumberLSB": 47,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "VCA Dyna Lower",
+      "parameterNumberLSB": 47,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "VCA Dyna Both",
+      "parameterNumberLSB": 47,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "LFO1 WF Upper",
+      "parameterNumberLSB": 48,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "LFO1 WF Lower",
+      "parameterNumberLSB": 48,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "LFO1 WF Both",
+      "parameterNumberLSB": 48,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "LFO1 Delay Upper",
+      "parameterNumberLSB": 49,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "LFO1 Delay Lower",
+      "parameterNumberLSB": 49,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "LFO1 Delay Both",
+      "parameterNumberLSB": 49,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "LFO1 Rate Upper",
+      "parameterNumberLSB": 50,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "LFO1 Rate Lower",
+      "parameterNumberLSB": 50,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "LFO1 Rate Both",
+      "parameterNumberLSB": 50,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "LFO1 LFO Upper",
+      "parameterNumberLSB": 51,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "LFO1 LFO Lower",
+      "parameterNumberLSB": 51,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "LFO1 LFO Both",
+      "parameterNumberLSB": 51,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "LFO1 Sync Upper",
+      "parameterNumberLSB": 52,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "LFO1 Sync Lower",
+      "parameterNumberLSB": 52,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "LFO1 Sync Both",
+      "parameterNumberLSB": 52,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "LFO2 WF Upper",
+      "parameterNumberLSB": 53,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "LFO2 WF Lower",
+      "parameterNumberLSB": 53,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "LFO2 WF Both",
+      "parameterNumberLSB": 53,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "LFO2 Delay Upper",
+      "parameterNumberLSB": 54,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "LFO2 Delay Lower",
+      "parameterNumberLSB": 54,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "LFO2 Delay Both",
+      "parameterNumberLSB": 54,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "LFO2 Rate Upper",
+      "parameterNumberLSB": 55,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "LFO2 Rate Lower",
+      "parameterNumberLSB": 55,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "LFO2 Rate Both",
+      "parameterNumberLSB": 55,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "LFO2 LFO Upper",
+      "parameterNumberLSB": 56,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "LFO2 LFO Lower",
+      "parameterNumberLSB": 56,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "LFO2 LFO Both",
+      "parameterNumberLSB": 56,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "LFO2 Sync Upper",
+      "parameterNumberLSB": 57,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "LFO2 Sync Lower",
+      "parameterNumberLSB": 57,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "LFO2 Sync Both",
+      "parameterNumberLSB": 57,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env1 T1 Upper",
+      "parameterNumberLSB": 58,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env1 T1 Lower",
+      "parameterNumberLSB": 58,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env1 T1 Both",
+      "parameterNumberLSB": 58,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env1 L1 Upper",
+      "parameterNumberLSB": 59,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env1 L1 Lower",
+      "parameterNumberLSB": 59,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env1 L1 Both",
+      "parameterNumberLSB": 59,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env1 T2 Upper",
+      "parameterNumberLSB": 60,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env1 T2 Lower",
+      "parameterNumberLSB": 60,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env1 T2 Both",
+      "parameterNumberLSB": 60,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env1 L2 Upper",
+      "parameterNumberLSB": 61,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env1 L2 Lower",
+      "parameterNumberLSB": 61,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env1 L2 Both",
+      "parameterNumberLSB": 61,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env1 T3 Upper",
+      "parameterNumberLSB": 62,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env1 T3 Lower",
+      "parameterNumberLSB": 62,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env1 T3 Both",
+      "parameterNumberLSB": 62,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env1 L3 Upper",
+      "parameterNumberLSB": 63,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env1 L3 Lower",
+      "parameterNumberLSB": 63,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env1 L3 Both",
+      "parameterNumberLSB": 63,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env1 T4 Upper",
+      "parameterNumberLSB": 64,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env1 T4 Lower",
+      "parameterNumberLSB": 64,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env1 T4 Both",
+      "parameterNumberLSB": 64,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env1 Key Upper",
+      "parameterNumberLSB": 65,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env1 Key Lower",
+      "parameterNumberLSB": 65,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env1 Key Both",
+      "parameterNumberLSB": 65,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env2 T1 Upper",
+      "parameterNumberLSB": 66,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env2 T1 Lower",
+      "parameterNumberLSB": 66,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env2 T1 Both",
+      "parameterNumberLSB": 66,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env2 L1 Upper",
+      "parameterNumberLSB": 67,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env2 L1 Lower",
+      "parameterNumberLSB": 67,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env2 L1 Both",
+      "parameterNumberLSB": 67,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env2 T2 Upper",
+      "parameterNumberLSB": 68,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env2 T2 Lower",
+      "parameterNumberLSB": 68,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env2 T2 Both",
+      "parameterNumberLSB": 68,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env2 L2 Upper",
+      "parameterNumberLSB": 69,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env2 L2 Lower",
+      "parameterNumberLSB": 69,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env2 L2 Both",
+      "parameterNumberLSB": 69,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env2 T3 Upper",
+      "parameterNumberLSB": 70,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env2 T3 Lower",
+      "parameterNumberLSB": 70,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env2 T3 Both",
+      "parameterNumberLSB": 70,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env2 L3 Upper",
+      "parameterNumberLSB": 71,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env2 L3 Lower",
+      "parameterNumberLSB": 71,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env2 L3 Both",
+      "parameterNumberLSB": 71,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env2 T4 Upper",
+      "parameterNumberLSB": 72,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env2 T4 Lower",
+      "parameterNumberLSB": 72,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env2 T4 Both",
+      "parameterNumberLSB": 72,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env2 Key Upper",
+      "parameterNumberLSB": 73,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env2 Key Lower",
+      "parameterNumberLSB": 73,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env2 Key Both",
+      "parameterNumberLSB": 73,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env3 Att Upper",
+      "parameterNumberLSB": 74,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env3 Att Lower",
+      "parameterNumberLSB": 74,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env3 Att Both",
+      "parameterNumberLSB": 74,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env3 Decy Upper",
+      "parameterNumberLSB": 75,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env3 Decy Lower",
+      "parameterNumberLSB": 75,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env3 Decy Both",
+      "parameterNumberLSB": 75,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env3 Sust Upper",
+      "parameterNumberLSB": 76,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env3 Sust Lower",
+      "parameterNumberLSB": 76,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env3 Sust Both",
+      "parameterNumberLSB": 76,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env3 Rel Upper",
+      "parameterNumberLSB": 77,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env3 Rel Lower",
+      "parameterNumberLSB": 77,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env3 Rel Both",
+      "parameterNumberLSB": 77,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env3 Key Upper",
+      "parameterNumberLSB": 78,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env3 Key Lower",
+      "parameterNumberLSB": 78,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env3 Key Both",
+      "parameterNumberLSB": 78,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env4 Att Upper",
+      "parameterNumberLSB": 79,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env4 Att Lower",
+      "parameterNumberLSB": 79,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env4 Att Both",
+      "parameterNumberLSB": 79,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env4 Decy Upper",
+      "parameterNumberLSB": 80,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env4 Decy Lower",
+      "parameterNumberLSB": 80,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env4 Decy Both",
+      "parameterNumberLSB": 80,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env4 Sust Upper",
+      "parameterNumberLSB": 81,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env4 Sust Lower",
+      "parameterNumberLSB": 81,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env4 Sust Both",
+      "parameterNumberLSB": 81,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env4 Rel Upper",
+      "parameterNumberLSB": 82,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env4 Rel Lower",
+      "parameterNumberLSB": 82,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env4 Rel Both",
+      "parameterNumberLSB": 82,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env4 Key Upper",
+      "parameterNumberLSB": 83,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env4 Key Lower",
+      "parameterNumberLSB": 83,
+      "parameterNumberMSB": 1,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    },
+    {
+      "name": "Env4 Key Both",
+      "parameterNumberLSB": 83,
+      "parameterNumberMSB": 2,
+      "valueRangeLSB": {
+        "max": 0,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_ONLY"
+    }
+  ],
+  "receives": [
+    "VELOCITY_NOTE_ON",
+    "VELOCITY_NOTE_OFF",
+    "CHANNEL_PRESSURE",
+    "PITCH_BEND",
+    "NOTE_NUMBER",
+    "PROGRAM_CHANGE"
+  ],
+  "schemaVersion": "0.1.1",
+  "sysexCommands": [
+    {
+      "name": "U/L Balance",
+      "substitutableMessage": "F0 41 36 cc 24 30 01 12 dd F7",
+      "substitutableValues": [
+        {
+          "index": 3,
+          "substituteFor": "cc",
+          "valueRange": {
+            "max": "0F",
+            "min": "00"
+          },
+          "valueType": "MIDI_CHANNEL"
+        },
+        {
+          "index": 8,
+          "substituteFor": "dd",
+          "valueRange": {
+            "max": "7F",
+            "min": "00"
+          },
+          "valueType": "DATA_VALUE"
+        }
+      ]
+    },
+    {
+      "name": "Dual Detune",
+      "substitutableMessage": "F0 41 36 cc 24 30 01 13 dd F7",
+      "substitutableValues": [
+        {
+          "index": 3,
+          "substituteFor": "cc",
+          "valueRange": {
+            "max": "0F",
+            "min": "00"
+          },
+          "valueType": "MIDI_CHANNEL"
+        },
+        {
+          "index": 8,
+          "substituteFor": "dd",
+          "valueRange": {
+            "max": "7F",
+            "min": "00"
+          },
+          "valueType": "DATA_VALUE"
+        }
+      ]
+    },
+    {
+      "name": "Upper Split Point",
+      "substitutableMessage": "F0 41 36 cc 24 30 01 14 dd F7",
+      "substitutableValues": [
+        {
+          "index": 3,
+          "substituteFor": "cc",
+          "valueRange": {
+            "max": "0F",
+            "min": "00"
+          },
+          "valueType": "MIDI_CHANNEL"
+        },
+        {
+          "index": 8,
+          "substituteFor": "dd",
+          "valueRange": {
+            "max": "7F",
+            "min": "00"
+          },
+          "valueType": "DATA_VALUE"
+        }
+      ]
+    },
+    {
+      "name": "Lower Split Point",
+      "substitutableMessage": "F0 41 36 cc 24 30 01 15 dd F7",
+      "substitutableValues": [
+        {
+          "index": 3,
+          "substituteFor": "cc",
+          "valueRange": {
+            "max": "0F",
+            "min": "00"
+          },
+          "valueType": "MIDI_CHANNEL"
+        },
+        {
+          "index": 8,
+          "substituteFor": "dd",
+          "valueRange": {
+            "max": "7F",
+            "min": "00"
+          },
+          "valueType": "DATA_VALUE"
+        }
+      ]
+    },
+    {
+      "name": "Portamento Time",
+      "substitutableMessage": "F0 41 36 cc 24 30 01 16 dd F7",
+      "substitutableValues": [
+        {
+          "index": 3,
+          "substituteFor": "cc",
+          "valueRange": {
+            "max": "0F",
+            "min": "00"
+          },
+          "valueType": "MIDI_CHANNEL"
+        },
+        {
+          "index": 8,
+          "substituteFor": "dd",
+          "valueRange": {
+            "max": "7F",
+            "min": "00"
+          },
+          "valueType": "DATA_VALUE"
+        }
+      ]
+    },
+    {
+      "name": "Bend Range",
+      "substitutableMessage": "F0 41 36 cc 24 30 01 17 dd F7",
+      "substitutableValues": [
+        {
+          "index": 3,
+          "substituteFor": "cc",
+          "valueRange": {
+            "max": "0F",
+            "min": "00"
+          },
+          "valueType": "MIDI_CHANNEL"
+        },
+        {
+          "index": 8,
+          "substituteFor": "dd",
+          "valueRange": {
+            "max": "7F",
+            "min": "00"
+          },
+          "valueType": "DATA_VALUE"
+        }
+      ]
+    },
+    {
+      "name": "Bend Range Ext",
+      "substitutableMessage": "F0 41 36 cc 24 30 01 34 dd F7",
+      "substitutableValues": [
+        {
+          "index": 3,
+          "substituteFor": "cc",
+          "valueRange": {
+            "max": "0F",
+            "min": "00"
+          },
+          "valueType": "MIDI_CHANNEL"
+        },
+        {
+          "index": 8,
+          "substituteFor": "dd",
+          "valueRange": {
+            "max": "7F",
+            "min": "00"
+          },
+          "valueType": "DATA_VALUE"
+        }
+      ]
+    },
+    {
+      "name": "Total Volume",
+      "substitutableMessage": "F0 41 36 cc 24 30 01 19 dd F7",
+      "substitutableValues": [
+        {
+          "index": 3,
+          "substituteFor": "cc",
+          "valueRange": {
+            "max": "0F",
+            "min": "00"
+          },
+          "valueType": "MIDI_CHANNEL"
+        },
+        {
+          "index": 8,
+          "substituteFor": "dd",
+          "valueRange": {
+            "max": "7F",
+            "min": "00"
+          },
+          "valueType": "DATA_VALUE"
+        }
+      ]
+    },
+    {
+      "name": "Aftertouch Vibrato",
+      "substitutableMessage": "F0 41 36 cc 24 30 01 1A dd F7",
+      "substitutableValues": [
+        {
+          "index": 3,
+          "substituteFor": "cc",
+          "valueRange": {
+            "max": "0F",
+            "min": "00"
+          },
+          "valueType": "MIDI_CHANNEL"
+        },
+        {
+          "index": 8,
+          "substituteFor": "dd",
+          "valueRange": {
+            "max": "7F",
+            "min": "00"
+          },
+          "valueType": "DATA_VALUE"
+        }
+      ]
+    },
+    {
+      "name": "Aftertouch Brilliance",
+      "substitutableMessage": "F0 41 36 cc 24 30 01 1B dd F7",
+      "substitutableValues": [
+        {
+          "index": 3,
+          "substituteFor": "cc",
+          "valueRange": {
+            "max": "0F",
+            "min": "00"
+          },
+          "valueType": "MIDI_CHANNEL"
+        },
+        {
+          "index": 8,
+          "substituteFor": "dd",
+          "valueRange": {
+            "max": "7F",
+            "min": "00"
+          },
+          "valueType": "DATA_VALUE"
+        }
+      ]
+    },
+    {
+      "name": "Aftertouch Volume",
+      "substitutableMessage": "F0 41 36 cc 24 30 01 1C dd F7",
+      "substitutableValues": [
+        {
+          "index": 3,
+          "substituteFor": "cc",
+          "valueRange": {
+            "max": "0F",
+            "min": "00"
+          },
+          "valueType": "MIDI_CHANNEL"
+        },
+        {
+          "index": 8,
+          "substituteFor": "dd",
+          "valueRange": {
+            "max": "7F",
+            "min": "00"
+          },
+          "valueType": "DATA_VALUE"
+        }
+      ]
+    },
+    {
+      "name": "Upper Tone Number",
+      "substitutableMessage": "F0 41 36 cc 24 30 01 1D dd F7",
+      "substitutableValues": [
+        {
+          "index": 3,
+          "substituteFor": "cc",
+          "valueRange": {
+            "max": "0F",
+            "min": "00"
+          },
+          "valueType": "MIDI_CHANNEL"
+        },
+        {
+          "index": 8,
+          "substituteFor": "dd",
+          "valueRange": {
+            "max": "63",
+            "min": "00"
+          },
+          "valueType": "DATA_VALUE"
+        }
+      ]
+    },
+    {
+      "name": "Upper Chromatic Shift",
+      "substitutableMessage": "F0 41 36 cc 24 30 01 1E dd F7",
+      "substitutableValues": [
+        {
+          "index": 3,
+          "substituteFor": "cc",
+          "valueRange": {
+            "max": "0F",
+            "min": "00"
+          },
+          "valueType": "MIDI_CHANNEL"
+        },
+        {
+          "index": 8,
+          "substituteFor": "dd",
+          "valueRange": {
+            "max": "7F",
+            "min": "00"
+          },
+          "valueType": "DATA_VALUE"
+        }
+      ]
+    },
+    {
+      "name": "Upper Key Assign",
+      "substitutableMessage": "F0 41 36 cc 24 30 01 1F dd F7",
+      "substitutableValues": [
+        {
+          "index": 3,
+          "substituteFor": "cc",
+          "valueRange": {
+            "max": "0F",
+            "min": "00"
+          },
+          "valueType": "MIDI_CHANNEL"
+        },
+        {
+          "index": 8,
+          "substituteFor": "dd",
+          "valueRange": {
+            "max": "06",
+            "min": "00"
+          },
+          "valueType": "DATA_VALUE"
+        }
+      ]
+    },
+    {
+      "name": "Upper Unison Detune",
+      "substitutableMessage": "F0 41 36 cc 24 30 01 20 dd F7",
+      "substitutableValues": [
+        {
+          "index": 3,
+          "substituteFor": "cc",
+          "valueRange": {
+            "max": "0F",
+            "min": "00"
+          },
+          "valueType": "MIDI_CHANNEL"
+        },
+        {
+          "index": 8,
+          "substituteFor": "dd",
+          "valueRange": {
+            "max": "7F",
+            "min": "00"
+          },
+          "valueType": "DATA_VALUE"
+        }
+      ]
+    },
+    {
+      "name": "Upper Hold",
+      "substitutableMessage": "F0 41 36 cc 24 30 01 21 dd F7",
+      "substitutableValues": [
+        {
+          "index": 3,
+          "substituteFor": "cc",
+          "valueRange": {
+            "max": "0F",
+            "min": "00"
+          },
+          "valueType": "MIDI_CHANNEL"
+        },
+        {
+          "index": 8,
+          "substituteFor": "dd",
+          "valueRange": {
+            "max": "01",
+            "min": "00"
+          },
+          "valueType": "DATA_VALUE"
+        }
+      ]
+    },
+    {
+      "name": "Upper LFO Mod Depth",
+      "substitutableMessage": "F0 41 36 cc 24 30 01 22 dd F7",
+      "substitutableValues": [
+        {
+          "index": 3,
+          "substituteFor": "cc",
+          "valueRange": {
+            "max": "0F",
+            "min": "00"
+          },
+          "valueType": "MIDI_CHANNEL"
+        },
+        {
+          "index": 8,
+          "substituteFor": "dd",
+          "valueRange": {
+            "max": "7F",
+            "min": "00"
+          },
+          "valueType": "DATA_VALUE"
+        }
+      ]
+    },
+    {
+      "name": "Upper Portamento SW",
+      "substitutableMessage": "F0 41 36 cc 24 30 01 23 dd F7",
+      "substitutableValues": [
+        {
+          "index": 3,
+          "substituteFor": "cc",
+          "valueRange": {
+            "max": "0F",
+            "min": "00"
+          },
+          "valueType": "MIDI_CHANNEL"
+        },
+        {
+          "index": 8,
+          "substituteFor": "dd",
+          "valueRange": {
+            "max": "01",
+            "min": "00"
+          },
+          "valueType": "DATA_VALUE"
+        }
+      ]
+    },
+    {
+      "name": "Upper Bender SW",
+      "substitutableMessage": "F0 41 36 cc 24 30 01 24 dd F7",
+      "substitutableValues": [
+        {
+          "index": 3,
+          "substituteFor": "cc",
+          "valueRange": {
+            "max": "0F",
+            "min": "00"
+          },
+          "valueType": "MIDI_CHANNEL"
+        },
+        {
+          "index": 8,
+          "substituteFor": "dd",
+          "valueRange": {
+            "max": "01",
+            "min": "00"
+          },
+          "valueType": "DATA_VALUE"
+        }
+      ]
+    },
+    {
+      "name": "Lower Tone Number",
+      "substitutableMessage": "F0 41 36 cc 24 30 01 26 dd F7",
+      "substitutableValues": [
+        {
+          "index": 3,
+          "substituteFor": "cc",
+          "valueRange": {
+            "max": "0F",
+            "min": "00"
+          },
+          "valueType": "MIDI_CHANNEL"
+        },
+        {
+          "index": 8,
+          "substituteFor": "dd",
+          "valueRange": {
+            "max": "63",
+            "min": "00"
+          },
+          "valueType": "DATA_VALUE"
+        }
+      ]
+    },
+    {
+      "name": "Lower Chromatic Shift",
+      "substitutableMessage": "F0 41 36 cc 24 30 27 1E dd F7",
+      "substitutableValues": [
+        {
+          "index": 3,
+          "substituteFor": "cc",
+          "valueRange": {
+            "max": "0F",
+            "min": "00"
+          },
+          "valueType": "MIDI_CHANNEL"
+        },
+        {
+          "index": 8,
+          "substituteFor": "dd",
+          "valueRange": {
+            "max": "7F",
+            "min": "00"
+          },
+          "valueType": "DATA_VALUE"
+        }
+      ]
+    },
+    {
+      "name": "Lower Key Assign",
+      "substitutableMessage": "F0 41 36 cc 24 30 01 28 dd F7",
+      "substitutableValues": [
+        {
+          "index": 3,
+          "substituteFor": "cc",
+          "valueRange": {
+            "max": "0F",
+            "min": "00"
+          },
+          "valueType": "MIDI_CHANNEL"
+        },
+        {
+          "index": 8,
+          "substituteFor": "dd",
+          "valueRange": {
+            "max": "06",
+            "min": "00"
+          },
+          "valueType": "DATA_VALUE"
+        }
+      ]
+    },
+    {
+      "name": "Lower Unison Detune",
+      "substitutableMessage": "F0 41 36 cc 24 30 01 29 dd F7",
+      "substitutableValues": [
+        {
+          "index": 3,
+          "substituteFor": "cc",
+          "valueRange": {
+            "max": "0F",
+            "min": "00"
+          },
+          "valueType": "MIDI_CHANNEL"
+        },
+        {
+          "index": 8,
+          "substituteFor": "dd",
+          "valueRange": {
+            "max": "7F",
+            "min": "00"
+          },
+          "valueType": "DATA_VALUE"
+        }
+      ]
+    },
+    {
+      "name": "Lower Hold",
+      "substitutableMessage": "F0 41 36 cc 24 30 01 2A dd F7",
+      "substitutableValues": [
+        {
+          "index": 3,
+          "substituteFor": "cc",
+          "valueRange": {
+            "max": "0F",
+            "min": "00"
+          },
+          "valueType": "MIDI_CHANNEL"
+        },
+        {
+          "index": 8,
+          "substituteFor": "dd",
+          "valueRange": {
+            "max": "01",
+            "min": "00"
+          },
+          "valueType": "DATA_VALUE"
+        }
+      ]
+    },
+    {
+      "name": "Lower LFO Mod Depth",
+      "substitutableMessage": "F0 41 36 cc 24 30 01 2B dd F7",
+      "substitutableValues": [
+        {
+          "index": 3,
+          "substituteFor": "cc",
+          "valueRange": {
+            "max": "0F",
+            "min": "00"
+          },
+          "valueType": "MIDI_CHANNEL"
+        },
+        {
+          "index": 8,
+          "substituteFor": "dd",
+          "valueRange": {
+            "max": "7F",
+            "min": "00"
+          },
+          "valueType": "DATA_VALUE"
+        }
+      ]
+    },
+    {
+      "name": "Lower Portamento SW",
+      "substitutableMessage": "F0 41 36 cc 24 30 01 2C dd F7",
+      "substitutableValues": [
+        {
+          "index": 3,
+          "substituteFor": "cc",
+          "valueRange": {
+            "max": "0F",
+            "min": "00"
+          },
+          "valueType": "MIDI_CHANNEL"
+        },
+        {
+          "index": 8,
+          "substituteFor": "dd",
+          "valueRange": {
+            "max": "01",
+            "min": "00"
+          },
+          "valueType": "DATA_VALUE"
+        }
+      ]
+    },
+    {
+      "name": "Lower Bender SW",
+      "substitutableMessage": "F0 41 36 cc 24 30 01 2D dd F7",
+      "substitutableValues": [
+        {
+          "index": 3,
+          "substituteFor": "cc",
+          "valueRange": {
+            "max": "0F",
+            "min": "00"
+          },
+          "valueType": "MIDI_CHANNEL"
+        },
+        {
+          "index": 8,
+          "substituteFor": "dd",
+          "valueRange": {
+            "max": "01",
+            "min": "00"
+          },
+          "valueType": "DATA_VALUE"
+        }
+      ]
+    },
+    {
+      "name": "Chase Level",
+      "substitutableMessage": "F0 41 36 cc 24 30 01 2F dd F7",
+      "substitutableValues": [
+        {
+          "index": 3,
+          "substituteFor": "cc",
+          "valueRange": {
+            "max": "0F",
+            "min": "00"
+          },
+          "valueType": "MIDI_CHANNEL"
+        },
+        {
+          "index": 8,
+          "substituteFor": "dd",
+          "valueRange": {
+            "max": "7F",
+            "min": "00"
+          },
+          "valueType": "DATA_VALUE"
+        }
+      ]
+    },
+    {
+      "name": "Chase Mode",
+      "substitutableMessage": "F0 41 36 cc 24 30 01 30 dd F7",
+      "substitutableValues": [
+        {
+          "index": 3,
+          "substituteFor": "cc",
+          "valueRange": {
+            "max": "0F",
+            "min": "00"
+          },
+          "valueType": "MIDI_CHANNEL"
+        },
+        {
+          "index": 8,
+          "substituteFor": "dd",
+          "valueRange": {
+            "max": "02",
+            "min": "00"
+          },
+          "valueType": "DATA_VALUE"
+        }
+      ]
+    },
+    {
+      "name": "Chase Time",
+      "substitutableMessage": "F0 41 36 cc 24 30 01 31 dd F7",
+      "substitutableValues": [
+        {
+          "index": 3,
+          "substituteFor": "cc",
+          "valueRange": {
+            "max": "0F",
+            "min": "00"
+          },
+          "valueType": "MIDI_CHANNEL"
+        },
+        {
+          "index": 8,
+          "substituteFor": "dd",
+          "valueRange": {
+            "max": "7F",
+            "min": "00"
+          },
+          "valueType": "DATA_VALUE"
+        }
+      ]
+    },
+    {
+      "name": "Chase Play",
+      "substitutableMessage": "F0 41 36 cc 24 30 01 32 dd F7",
+      "substitutableValues": [
+        {
+          "index": 3,
+          "substituteFor": "cc",
+          "valueRange": {
+            "max": "0F",
+            "min": "00"
+          },
+          "valueType": "MIDI_CHANNEL"
+        },
+        {
+          "index": 8,
+          "substituteFor": "dd",
+          "valueRange": {
+            "max": "01",
+            "min": "00"
+          },
+          "valueType": "DATA_VALUE"
+        }
+      ]
+    }
+  ],
+  "title": "Super JX Vecoven 4.x PWM MIDI Implementation",
+  "transmits": [
+    "CLOCK",
+    "VELOCITY_NOTE_ON",
+    "VELOCITY_NOTE_OFF",
+    "NOTE_NUMBER",
+    "CHANNEL_PRESSURE",
+    "PROGRAM_CHANGE",
+    "PITCH_BEND"
+  ]
+}
