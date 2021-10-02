@@ -528,7 +528,7 @@ nrpnCommands:
   parameterNumber: 49
   valueRange:
     discreteValues: []
-    max: 164
+    max: 255
     min: 0
     additionalProperties: {}
   additionalProperties: {}
@@ -1021,7 +1021,7 @@ receives:
 - "CLOCK"
 - "CHANNEL_PRESSURE"
 rpnCommands: []
-schemaVersion: "0.0.1"
+schemaVersion: "0.0.2"
 sysexCommands: []
 title: "DSI/Sequential Prophet-6 Midi Implementation"
 transmits:
