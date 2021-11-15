@@ -1,0 +1,1750 @@
+---
+controlChangeCommands:
+- controlChangeNumber: 2
+  name: "Waveform Osc 1 Voice 1"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 3
+  name: "Waveform Osc 1 Voice 2"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 4
+  name: "Waveform Osc 1 Voice 3"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 5
+  name: "Waveform Osc 1 Voice 4"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 7
+  name: "Waveform Osc 1 Voice 5"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 8
+  name: "Waveform Osc 1 Voice 6"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 9
+  name: "Coarse Tune Osc 1 Voice 1"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 10
+  name: "Fine Tune Osc 1 Voice 1"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 11
+  name: "Coarse Tune Osc 1 Voice 2"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 12
+  name: "Fine Tune Osc 1 Voice 2"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 13
+  name: "Coarse Tune Osc 1 Voice 3"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 14
+  name: "Fine Tune Osc 1 Voice 3"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 15
+  name: "Coarse Tune Osc 1 Voice 4"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 16
+  name: "Fine Tune Osc 1 Voice 4"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 17
+  name: "Coarse Tune Osc 1 Voice 5"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 18
+  name: "Fine Tune Osc 1 Voice 5"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 19
+  name: "Coarse Tune Osc 1 Voice 6"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 20
+  name: "Fine Tune Osc 1 Voice 6"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 21
+  name: "Waveform mod OSC Voice 1"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 22
+  name: "Waveform mod OSC Voice 2"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 23
+  name: "Waveform mod OSC Voice 3"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 24
+  name: "Waveform mod Osc 1 Voice 5"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 25
+  name: "Waveform mod Osc 2 Voice 5"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 26
+  name: "Waveform mod Osc 1 Voice 6"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 27
+  name: "Waveform mod Osc 2 Voice 6"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 28
+  name: "Noise frequency Voice 4"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 29
+  name: "Mix osc/noise Voice 4"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 30
+  name: "Coarse tune mod Osc 1 Voice 5"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 31
+  name: "Coarse tune mod Osc 2 Voice 5"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 32
+  name: "Gain mod Osc 1 Voice 5"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 33
+  name: "Gain mod Osc 2 Voice 5"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 34
+  name: "Coarse tune mod Osc 1 Voice 6"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 35
+  name: "Coarse tune mod Osc 2 Voice 6"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 36
+  name: "Gain mod Osc 1 Voice 6"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 37
+  name: "Gain mod Osc 2 Voice 6"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 38
+  name: "Filter frequency Voice 1"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 39
+  name: "Filter frequency Voice 2"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 40
+  name: "Filter frequency Voice 3"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 41
+  name: "Filter frequency Voice 4"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 42
+  name: "Filter frequency Voice 5"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 43
+  name: "Filter frequency Voice 6"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 44
+  name: "Filter resonance Voice 1"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 45
+  name: "Filter resonance Voice 2"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 46
+  name: "Filter resonance Voice 3"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 47
+  name: "Filter resonance Voice 4"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 48
+  name: "Filter resonance Voice 5"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 49
+  name: "Filter resonance Voice 6"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 50
+  name: "Volume envelope attack Voice 1"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 51
+  name: "Volume envelope decay Voice 1"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 52
+  name: "Volume envelope attack Voice 2"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 53
+  name: "Volume envelope decay Voice 2"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 54
+  name: "Volume envelope attack Voice 3"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 55
+  name: "Volume envelope decay Voice 3"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 56
+  name: "Volume envelope attack Voice 4"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 57
+  name: "Volume envelope decay Voice 4"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 58
+  name: "Volume envelope attack Voice 5"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 59
+  name: "Volume envelope decay Voice 5"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 60
+  name: "Volume envelope attack Voice 6"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 61
+  name: "Closed HiHat decay time Voice 6"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 62
+  name: "Open HiHat decay time Voice 6"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 63
+  name: "Volume envelope slope Voice 1"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 64
+  name: "Volume envelope slope Voice 2"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 65
+  name: "Volume envelope slope Voice 3"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 66
+  name: "Volume EG slope Voice 4"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 67
+  name: "Volume EG slope Voice 5"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 68
+  name: "Volume EG slope Voice 6"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 69
+  name: "Volume EG repeat count Voice 4"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 70
+  name: "Volume EG repeat count Voice 5"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 71
+  name: "Mod envelope decay Voice 1"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 72
+  name: "Mod envelope decay Voice 2"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 73
+  name: "Mod envelope decay Voice 3"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 74
+  name: "Mod envelope decay Voice 4"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 75
+  name: "Envelope mod amount Voice 1"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 76
+  name: "Envelope mod amount Voice 2"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 77
+  name: "Envelope mod amount Voice 3"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 78
+  name: "Envelope mod amount Voice 4"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 79
+  name: "Mod Envelope slope Voice 1"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 80
+  name: "Mod Envelope slope Voice 2"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 81
+  name: "Mod Envelope slope Voice 3"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 82
+  name: "Mod Envelope slope Voice 4"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 83
+  name: "FM amount Voice 1"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 84
+  name: "FM frequency Voice 1"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 85
+  name: "FM amount Voice 2"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 86
+  name: "FM frequency Voice 2"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 87
+  name: "FM amount Voice 3"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 88
+  name: "FM frequency Voice 3"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 89
+  name: "Voice volume Voice 1"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 90
+  name: "Voice volume Voice 2"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 91
+  name: "Voice volume Voice 3"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 92
+  name: "Voice volume Voice 4"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 93
+  name: "Voice volume Voice 5"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 94
+  name: "Voice volume Voice 6"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 95
+  name: "Voice pan Voice 1"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 96
+  name: "Voice pan Voice 2"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 97
+  name: "Voice pan Voice 3"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 100
+  name: "Voice pan Voice 4"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 101
+  name: "Voice pan Voice 5"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 102
+  name: "Voice pan Voice 6"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 103
+  name: "Distortion Voice 1"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 104
+  name: "Distortion Voice 2"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 105
+  name: "Distortion Voice 3"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 106
+  name: "Distortion Voice 4"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 107
+  name: "Distortion Voice 5"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 108
+  name: "Distortion Voice 6"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 109
+  name: "Decimation Voice 1"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 110
+  name: "Decimation Voice 2"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 111
+  name: "Decimation Voice 3"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 112
+  name: "Decimation Voice 4"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 113
+  name: "Decimation Voice 5"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 114
+  name: "Decimation Voice 6"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 115
+  name: "Decimation All"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 116
+  name: "LFO freq Voice 1"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 117
+  name: "LFO freq Voice 2"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 118
+  name: "LFO freq Voice 3"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 119
+  name: "LFO freq Voice 4"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 120
+  name: "LFO freq Voice 5"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 121
+  name: "LFO freq Voice 6"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 122
+  name: "LFO amount Voice 1"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 123
+  name: "LFO amount Voice 2"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 124
+  name: "LFO amount Voice 3"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 125
+  name: "LFO amount Voice 4"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 126
+  name: "LFO amount Voice 5"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 127
+  name: "LFO amount Voice 6"
+  valueRange:
+    max: 127
+    min: 0
+controlChangeSequenceCommands: []
+description: "open-midi-rtc-schema specification for LXR-02"
+device:
+  description: "LXR-02 Parameter Mappings"
+  deviceType: "DRUM_MACHINE"
+  displayName: "LXR-02"
+  documentationResource: "www.ericasynths.lv"
+  identifier: "0000000"
+  manufacturer: "Erica_Synths"
+  model: "LXR-02"
+  name: "LXR-02"
+  version: "1.0.0"
+displayName: "LXR-02"
+implementationVersion: "1.0.0"
+nrpnCommands:
+- name: "Filter Drive Voice 1"
+  parameterNumberLSB: 0
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Filter Drive Voice 2"
+  parameterNumberLSB: 1
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Filter Drive Voice 3"
+  parameterNumberLSB: 2
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Filter Drive Voice 4"
+  parameterNumberLSB: 3
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Filter Drive Voice 5"
+  parameterNumberLSB: 4
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Filter Drive Voice 6"
+  parameterNumberLSB: 5
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Mix/Mod select Voice 1"
+  parameterNumberLSB: 6
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Mix/Mod select Voice 2"
+  parameterNumberLSB: 7
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Mix/Mod select Voice 3"
+  parameterNumberLSB: 8
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Velocity volume mod on/off Voice 1"
+  parameterNumberLSB: 9
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Velocity volume mod on/off Voice 2"
+  parameterNumberLSB: 10
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Velocity volume mod on/off Voice 3"
+  parameterNumberLSB: 11
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Velocity volume mod on/off Voice 4"
+  parameterNumberLSB: 12
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Velocity volume mod on/off Voice 5"
+  parameterNumberLSB: 13
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Velocity volume mod on/off Voice 6"
+  parameterNumberLSB: 14
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Velocity mod amount Voice 1"
+  parameterNumberLSB: 15
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Velocity mod amount Voice 2"
+  parameterNumberLSB: 16
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Velocity mod amount Voice 3"
+  parameterNumberLSB: 17
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Velocity mod amount Voice 4"
+  parameterNumberLSB: 18
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Velocity mod amount Voice 5"
+  parameterNumberLSB: 19
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Velocity mod amount Voice 6"
+  parameterNumberLSB: 20
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Velocity mod destination Voice 1"
+  parameterNumberLSB: 21
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Velocity mod destination Voice 2"
+  parameterNumberLSB: 22
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Velocity mod destination Voice 3"
+  parameterNumberLSB: 23
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Velocity mod destination Voice 4"
+  parameterNumberLSB: 24
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Velocity mod destination Voice 5"
+  parameterNumberLSB: 25
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Velocity mod destination Voice 6"
+  parameterNumberLSB: 26
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "LFO waveform Voice 1"
+  parameterNumberLSB: 27
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "LFO waveform Voice 2"
+  parameterNumberLSB: 28
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "LFO waveform Voice 3"
+  parameterNumberLSB: 29
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "LFO waveform Voice 4"
+  parameterNumberLSB: 30
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "LFO waveform Voice 5"
+  parameterNumberLSB: 31
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "LFO waveform Voice 6"
+  parameterNumberLSB: 32
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "LFO target voice Voice 1"
+  parameterNumberLSB: 33
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "LFO target voice Voice 2"
+  parameterNumberLSB: 34
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "LFO target voice Voice 3"
+  parameterNumberLSB: 35
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "LFO target voice Voice 4"
+  parameterNumberLSB: 36
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "LFO target voice Voice 5"
+  parameterNumberLSB: 37
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "LFO target voice Voice 6"
+  parameterNumberLSB: 38
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "LFO target Voice 1"
+  parameterNumberLSB: 39
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "LFO target Voice 2"
+  parameterNumberLSB: 40
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "LFO target Voice 3"
+  parameterNumberLSB: 41
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "LFO target Voice 4"
+  parameterNumberLSB: 42
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "LFO target Voice 5"
+  parameterNumberLSB: 43
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "LFO target Voice 6"
+  parameterNumberLSB: 44
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "LFO retrigger Voice 1"
+  parameterNumberLSB: 45
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "LFO retrigger Voice 2"
+  parameterNumberLSB: 46
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "LFO retrigger Voice 3"
+  parameterNumberLSB: 47
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "LFO retrigger Voice 4"
+  parameterNumberLSB: 48
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "LFO retrigger Voice 5"
+  parameterNumberLSB: 49
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "LFO retrigger Voice 6"
+  parameterNumberLSB: 50
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "LFO sync Voice 1"
+  parameterNumberLSB: 51
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "LFO sync Voice 2"
+  parameterNumberLSB: 52
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "LFO sync Voice 3"
+  parameterNumberLSB: 53
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "LFO sync Voice 4"
+  parameterNumberLSB: 54
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "LFO sync Voice 5"
+  parameterNumberLSB: 55
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "LFO sync Voice 6"
+  parameterNumberLSB: 56
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "LFO offset Voice 1"
+  parameterNumberLSB: 57
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "LFO offset Voice 2"
+  parameterNumberLSB: 58
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "LFO offset Voice 3"
+  parameterNumberLSB: 59
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "LFO offset Voice 4"
+  parameterNumberLSB: 60
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "LFO offset Voice 5"
+  parameterNumberLSB: 61
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "LFO offset Voice 6"
+  parameterNumberLSB: 62
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Filter type Voice 1"
+  parameterNumberLSB: 63
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Filter type Voice 2"
+  parameterNumberLSB: 64
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Filter type Voice 3"
+  parameterNumberLSB: 65
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Filter type Voice 4"
+  parameterNumberLSB: 66
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Filter type Voice 5"
+  parameterNumberLSB: 67
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Filter type Voice 6"
+  parameterNumberLSB: 68
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Transient generator volume Voice 1"
+  parameterNumberLSB: 69
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Transient generator volume Voice 2"
+  parameterNumberLSB: 70
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Transient generator volume Voice 3"
+  parameterNumberLSB: 71
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Transient generator volume Voice 4"
+  parameterNumberLSB: 72
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Transient generator volume Voice 5"
+  parameterNumberLSB: 73
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Transient generator volume Voice 6"
+  parameterNumberLSB: 74
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Transient generator waveform Voice 1"
+  parameterNumberLSB: 75
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Transient generator waveform Voice 2"
+  parameterNumberLSB: 76
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Transient generator waveform Voice 3"
+  parameterNumberLSB: 77
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Transient generator waveform Voice 4"
+  parameterNumberLSB: 78
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Transient generator waveform Voice 5"
+  parameterNumberLSB: 79
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Transient generator waveform Voice 6"
+  parameterNumberLSB: 80
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Transient generator frequency Voice 1"
+  parameterNumberLSB: 81
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Transient generator frequency Voice 2"
+  parameterNumberLSB: 82
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Transient generator frequency Voice 3"
+  parameterNumberLSB: 83
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Transient generator frequency Voice 4"
+  parameterNumberLSB: 84
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Transient generator frequency Voice 5"
+  parameterNumberLSB: 85
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Transient generator frequency Voice 6"
+  parameterNumberLSB: 86
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Audio output routing Voice 1"
+  parameterNumberLSB: 87
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Audio output routing Voice 2"
+  parameterNumberLSB: 88
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Audio output routing Voice 3"
+  parameterNumberLSB: 89
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Audio output routing Voice 4"
+  parameterNumberLSB: 90
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Audio output routing Voice 5"
+  parameterNumberLSB: 91
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "Audio output routing Voice 6"
+  parameterNumberLSB: 92
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "PWM Voice 1"
+  parameterNumberLSB: 100
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "PWM Voice 2"
+  parameterNumberLSB: 101
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "PWM Voice 3"
+  parameterNumberLSB: 102
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "PWM Voice 4"
+  parameterNumberLSB: 103
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "PWM Voice 5"
+  parameterNumberLSB: 104
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "PWM Voice 6"
+  parameterNumberLSB: 105
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "FX Type"
+  parameterNumberLSB: 106
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "FX Routing"
+  parameterNumberLSB: 107
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "FX Amount"
+  parameterNumberLSB: 108
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "FX Distortion Type"
+  parameterNumberLSB: 109
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "FX Parameter 1"
+  parameterNumberLSB: 110
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "FX Parameter 2"
+  parameterNumberLSB: 111
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "FX Parameter 3"
+  parameterNumberLSB: 112
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "FX Parameter 4"
+  parameterNumberLSB: 113
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "FX Ratio"
+  parameterNumberLSB: 114
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "FX Ringmod Waveform"
+  parameterNumberLSB: 115
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+- name: "FX Delay Type"
+  parameterNumberLSB: 117
+  parameterNumberMSB: 0
+  valueRangeLSB:
+    max: 0
+    min: 0
+  valueRangeMSB:
+    max: 127
+    min: 0
+  valueSequenceType: "MSB_ONLY"
+receives:
+- "VELOCITY_NOTE_ON"
+- "CLOCK"
+- "NOTE_NUMBER"
+- "TRANSPORT_START"
+- "TRANSPORT_STOP"
+- "TRANSPORT_CONTINUE"
+- "PROGRAM_CHANGE"
+schemaVersion: "0.1.1"
+sysexCommands: []
+title: "LXR-02 MIDI Implementation"
+transmits:
+- "VELOCITY_NOTE_ON"
+- "CLOCK"
+- "NOTE_NUMBER"
+- "TRANSPORT_START"
+- "TRANSPORT_STOP"
+- "PROGRAM_CHANGE"
