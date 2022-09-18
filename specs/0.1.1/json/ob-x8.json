@@ -1136,7 +1136,7 @@
         "min": 0
       },
       "valueRangeMSB": {
-        "max": 175,
+        "max": 255,
         "min": 0
       },
       "valueSequenceType": "MSB_LSB"
