@@ -521,9 +521,9 @@ device:
   manufacturer: "Oberheim"
   model: "OB-X8"
   name: "OB-X8"
-  version: "1.0.0"
+  version: "1.0.0.1"
 displayName: "OB-X8"
-implementationVersion: "1.0.0"
+implementationVersion: "1.0.0.1"
 nrpnCommands:
 - name: "OSC 1 FREQUENCY"
   parameterNumberLSB: 1
