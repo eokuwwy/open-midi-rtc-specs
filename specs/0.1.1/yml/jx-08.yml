@@ -1,0 +1,278 @@
+---
+controlChangeCommands:
+- controlChangeNumber: 1
+  name: "Modulation Wheel"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 3
+  name: "VCF CUTOFF"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 5
+  name: "PORTAMENTO TIME"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 7
+  name: "PATTERN PART LEVEL"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 9
+  name: "VCF RESONANCE"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 11
+  name: "Expression"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 16
+  name: "DCO-1 LEVEL"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 17
+  name: "DCO-2 LEVEL"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 18
+  name: "MIXER ENV"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 19
+  name: "MIXER ENVELOPE MODE"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 20
+  name: "DCO-1 RANGE"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 21
+  name: "DCO-1 ENV MOD"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 25
+  name: "DCO-2 LFO"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 26
+  name: "DCO-1 LFO"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 27
+  name: "LFO DELAY TIME"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 28
+  name: "VCF LFO DEPTH"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 29
+  name: "LFO RATE"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 35
+  name: "LFO WAVEFORM"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 35
+  name: "LFO WAVEFORM"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 41
+  name: "BEND PITCH"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 46
+  name: "DCO-1 WAVEFORM"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 47
+  name: "DCO-1 RANGE"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 56
+  name: "DCO-2 FINE TUNE"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 59
+  name: "DCO CROSS MOD"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 60
+  name: "DCO ENVELOPE MODE"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 61
+  name: "DCO-2 WAVEFORM"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 62
+  name: "DCO-2 RANGE"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 63
+  name: "DCO-2 ENV"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 64
+  name: "Hold Pedal"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 79
+  name: "FILTER HPF"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 80
+  name: "ENV1 DECAY"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 81
+  name: "VCF ENV"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 82
+  name: "VCF KEY FOLLOW"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 83
+  name: "ENV1 ATTACK"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 84
+  name: "VCF ENVELOPE MODE"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 85
+  name: "ENV1 SUSTAIN"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 86
+  name: "ENV1 RELEASE"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 87
+  name: "DCO-2 COARSE 1OCT"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 89
+  name: "ENV2 ATTACK"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 90
+  name: "ENV2 DECAY"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 91
+  name: "Reverb Send Level"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 102
+  name: "ENV2 SUSTAIN"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 103
+  name: "ENV2 RELEASE"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 104
+  name: "ENV1 KEY FOLLOW"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 105
+  name: "ENV2 KEY FOLLOW"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 109
+  name: "AMP ENVELOPE MODE"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 110
+  name: "AMP LEVEL"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 117
+  name: "PORTAMENTO TIME"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 118
+  name: "PORTAMENTO SWITCH"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 119
+  name: "SOLO/POLY/UNISON"
+  valueRange:
+    max: 127
+    min: 0
+description: "open-midi-rtc-schema specification for JX-08"
+device:
+  description: "JX-08 Parameter Mappings"
+  deviceType: "SYNTHESIZER"
+  displayName: "JX-08"
+  documentationResource: "roland.com"
+  identifier: "41"
+  manufacturer: "Roland"
+  model: "JX-08"
+  name: "JX-08"
+  version: "1.0.0"
+displayName: "JX-08"
+implementationVersion: "1.0.0"
+receives:
+- "VELOCITY_NOTE_ON"
+- "PITCH_BEND"
+- "NOTE_NUMBER"
+- "PROGRAM_CHANGE"
+- "CHANNEL_PRESSURE"
+schemaVersion: "0.1.1"
+title: "JX-08 MIDI Implementation"
+transmits:
+- "VELOCITY_NOTE_ON"
+- "NOTE_NUMBER"
+- "PROGRAM_CHANGE"
+- "PITCH_BEND"

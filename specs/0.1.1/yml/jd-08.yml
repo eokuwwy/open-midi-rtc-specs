@@ -1,0 +1,443 @@
+---
+controlChangeCommands:
+- controlChangeNumber: 1
+  name: "Modulation Wheel"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 3
+  name: "TVF CUTOFF"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 5
+  name: "PORTAMENTO TIME"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 7
+  name: "PART LEVEL"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 9
+  name: "TVF RESONANCE"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 11
+  name: "Expression"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 12
+  name: "FX B LEVEL"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 13
+  name: "FX B REVERB TIME"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 14
+  name: "LFO1 RATE"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 15
+  name: "LFO1 DELAY"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 16
+  name: "LFO1 FADE"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 17
+  name: "LFO1 OFFSET"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 18
+  name: "LFO1 KEY TRIG"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 19
+  name: "LFO1 WAVEFORM"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 20
+  name: "LFO2 RATE"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 21
+  name: "LFO2 DELAY"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 22
+  name: "LFO2 FADE"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 23
+  name: "LFO2 WAVEFORM"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 24
+  name: "LFO2 OFFSET"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 25
+  name: "LFO2 KEY TRIG"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 26
+  name: "PITCH ENVELOPE TIME KEY FOLLOW"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 27
+  name: "PITCH ENVELOPE L0"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 28
+  name: "PITCH ENVELOPE T1"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 29
+  name: "PITCH ENVELOPE L1"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 30
+  name: "PITCH ENVELOPE T2"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 31
+  name: "PITCH ENVELOPE T3"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 35
+  name: "PITCH ENVELOPE L2"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 35
+  name: "LFO WAVEFORM"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 41
+  name: "BENDER RANGE UP"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 46
+  name: "FILTER ENVELOPE TIME KEY FOLLOW"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 47
+  name: "FILTER ENVELOPE T1"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 48
+  name: "FILTER ENVELOPE L1"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 49
+  name: "BENDER RANGE DOWN"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 49
+  name: "BENDER RANGE DOWN"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 50
+  name: "FILTER ENVELOPE T2"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 51
+  name: "FILTER ENVELOPE L2"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 52
+  name: "FILTER ENVELOPE T3"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 53
+  name: "FILTER ENVELOPE SUSTAIN LEVEL"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 54
+  name: "FILTER ENVELOPE T4"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 55
+  name: "AMP ENVELOPE TIME KEY FOLLOW"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 56
+  name: "FILTER ENVELOPE L4"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 57
+  name: "AMP ENVELOPE T1"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 58
+  name: "AMP ENVELOPE L1"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 59
+  name: "AMP ENVELOPE T2"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 60
+  name: "AMP ENVELOPE L2"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 61
+  name: "AMP ENVELOPE T3"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 62
+  name: "AMP ENVELOPE SUSTAIN LEVEL"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 63
+  name: "AMP ENVELOPE T4"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 64
+  name: "HOLD PEDAL"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 66
+  name: "SOSTENUTO PEDAL"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 72
+  name: "WAVEFORM (TX: ENCODER)"
+  valueRange:
+    max: 108
+    min: 0
+- controlChangeNumber: 79
+  name: "PITCH COARSE"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 80
+  name: "PITCH FINE"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 81
+  name: "PITCH RANDOM"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 82
+  name: "PITCH KEY FOLLOW"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 83
+  name: "WG LFO1 DEPTH"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 85
+  name: "WG LFO2 DEPTH"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 86
+  name: "TVF FILTER MODE"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 87
+  name: "TVF ENVELOPE DEPTH"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 89
+  name: "TVF KEY FOLLOW"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 90
+  name: "TVF LFO SELECT"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 91
+  name: "FX B REVERB LEVEL"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 92
+  name: "FX B DELAY L LEVEL"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 93
+  name: "FX B CHORUS LEVEL"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 94
+  name: "FX B DELAY C LEVEL"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 95
+  name: "FX B DELAY R LEVEL"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 96
+  name: "LFO1 RATE (Rate Sync)"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 97
+  name: "LFO2 RATE (Rate Sync)"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 102
+  name: "TVF LFO DEPTH"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 103
+  name: "TVA LEVEL"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 104
+  name: "TVA BIAS POINT"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 105
+  name: "TVA BIAS LEVEL"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 106
+  name: "TVA BIAS DIRECTION"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 107
+  name: "TVA LFO SELECT"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 108
+  name: "TVA LFO DEPTH"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 110
+  name: "LEVEL"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 111
+  name: "LAYER"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 112
+  name: "ACTIVE"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 115
+  name: "SOLO"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 116
+  name: "LEGATO"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 117
+  name: "PORTAMENTO"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 118
+  name: "PORTAMENTO MODE"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 119
+  name: "UNISON"
+  valueRange:
+    max: 127
+    min: 0
+description: "open-midi-rtc-schema specification for JD-08"
+device:
+  description: "JD-08 Parameter Mappings"
+  deviceType: "SYNTHESIZER"
+  displayName: "JD-08"
+  documentationResource: "roland.com"
+  identifier: "41"
+  manufacturer: "Roland"
+  model: "JD-08"
+  name: "JD-08"
+  version: "1.0.0"
+displayName: "JD-08"
+implementationVersion: "1.0.0"
+receives:
+- "VELOCITY_NOTE_ON"
+- "PITCH_BEND"
+- "NOTE_NUMBER"
+- "PROGRAM_CHANGE"
+- "CHANNEL_PRESSURE"
+schemaVersion: "0.1.1"
+title: "JD-08 MIDI Implementation"
+transmits:
+- "VELOCITY_NOTE_ON"
+- "NOTE_NUMBER"
+- "PROGRAM_CHANGE"
+- "PITCH_BEND"

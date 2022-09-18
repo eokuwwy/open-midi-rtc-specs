@@ -1,0 +1,176 @@
+---
+controlChangeCommands:
+- controlChangeNumber: 1
+  name: "Modulation"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 5
+  name: "Glide Time"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 7
+  name: "Volume"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 10
+  name: "Pan"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 11
+  name: "Expression"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 64
+  name: "Damper"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 65
+  name: "Glide Mode"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 66
+  name: "Sostenuto"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 67
+  name: "Soft"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 70
+  name: "Algorithm"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 71
+  name: "Resonance"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 73
+  name: "Attack"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 74
+  name: "Cutoff"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 79
+  name: "Decay/Release"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 81
+  name: "FX1"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 82
+  name: "FX2"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 83
+  name: "FX3"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 102
+  name: "OP1 Level"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 103
+  name: "OP2 Level"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 104
+  name: "OP3 Level"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 105
+  name: "OP4 Level"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 106
+  name: "OP5 Level"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 107
+  name: "OP6 Level"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 108
+  name: "OP1 Ratio"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 109
+  name: "OP2 Ratio"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 110
+  name: "OP3 Ratio"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 111
+  name: "OP4 Ratio"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 112
+  name: "OP5 Ratio"
+  valueRange:
+    max: 127
+    min: 0
+- controlChangeNumber: 113
+  name: "OP6 Ratio"
+  valueRange:
+    max: 127
+    min: 0
+description: "open-midi-rtc-schema specification for Opsix"
+device:
+  description: "Opsix Parameter Mappings"
+  deviceType: "SYNTHESIZER"
+  displayName: "Opsix"
+  documentationResource: "korg.com"
+  identifier: "42"
+  manufacturer: "Korg"
+  model: "Opsix"
+  name: "Opsix"
+  version: "1.0.0"
+displayName: "Opsix"
+implementationVersion: "1.0.0"
+receives:
+- "VELOCITY_NOTE_ON"
+- "VELOCITY_NOTE_OFF"
+- "PITCH_BEND"
+- "NOTE_NUMBER"
+- "PROGRAM_CHANGE"
+- "CHANNEL_PRESSURE"
+- "POLY_PRESSURE"
+schemaVersion: "0.1.1"
+title: "Opsix MIDI Implementation"
+transmits:
+- "VELOCITY_NOTE_ON"
+- "VELOCITY_NOTE_OFF"
+- "NOTE_NUMBER"
+- "PROGRAM_CHANGE"
+- "PITCH_BEND"

@@ -1,0 +1,2425 @@
+{
+  "controlChangeCommands": [
+    {
+      "controlChangeNumber": 1,
+      "name": "MOD BOX LFO2 BEND AMOUNT",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 3,
+      "name": "VINTAGE",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 5,
+      "name": "PORTAMENTO RATE",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 7,
+      "name": "MASTER VOLUME",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 8,
+      "name": "PROGRAM VOLUME",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 9,
+      "name": "TRANSPOSE UP/DOWN",
+      "valueRange": {
+        "max": 2,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 10,
+      "name": "PAGE 2 PANWIDTH",
+      "valueRange": {
+        "max": 2,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 11,
+      "name": "EXPRESSION PEDAL",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 12,
+      "name": "OSC 1 XMOD",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 13,
+      "name": "OSC 1 FILTER ENV MOD",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 14,
+      "name": "PAGE 2 OSC XMOD AMT",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 15,
+      "name": "OSC 1 FREQ",
+      "valueRange": {
+        "max": 63,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 16,
+      "name": "OSC 2 FREQ",
+      "valueRange": {
+        "max": 63,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 17,
+      "name": "OSC 2 DETUNE",
+      "valueRange": {
+        "max": 63,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 18,
+      "name": "PAGE 2 VOICE DETUNE RANGE",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 19,
+      "name": "OSC 1 WAVEFORM",
+      "valueRange": {
+        "max": 3,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 20,
+      "name": "OSC 2 WAVEFORM",
+      "valueRange": {
+        "max": 3,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 21,
+      "name": "OSC 1 PW",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 22,
+      "name": "OSC 2 PW",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 23,
+      "name": "OSC SQUARE MODE",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 24,
+      "name": "OSC 1 SYNC",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 25,
+      "name": "OSC 1 LEVEL",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 26,
+      "name": "OSC 2 LEVEL",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 27,
+      "name": "PAGE 2 OSC 1 ON LEVEL",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 28,
+      "name": "PAGE 2 OSC 2 ON LEVEL",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 29,
+      "name": "NOISE LEVEL",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 30,
+      "name": "PAGE 2 NOISE ON LEVEL",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 33,
+      "name": "FILTER FREQUENCY",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 34,
+      "name": "FILTER RESONANCE",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 35,
+      "name": "FILTER TYPE",
+      "valueRange": {
+        "max": 5,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 36,
+      "name": "FILTER KEYBOARD",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 37,
+      "name": "PAGE 2 FILTER KBD ON LEVEL",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 39,
+      "name": "FILTER ENV ATTACK",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 40,
+      "name": "FILTER ENV DECAY",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 41,
+      "name": "FILTER ENV SUSTAIN",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 42,
+      "name": "FILTER ENV RELEASE",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 43,
+      "name": "FILTER VELOCITY ON/OFF",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 44,
+      "name": "FILTER PRESSURE",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 45,
+      "name": "VOLUME ENV ATTACK",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 46,
+      "name": "VOLUME ENV DECAY",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 47,
+      "name": "VOLUME ENV SUSTAIN",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 48,
+      "name": "VOLUME ENV RELEASE",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 49,
+      "name": "VOLUME ENV VELOCITY ON/OFF",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 50,
+      "name": "ENV TYPE",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 51,
+      "name": "LFO 1 RATE",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 52,
+      "name": "LFO 1 SHAPE",
+      "valueRange": {
+        "max": 4,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 53,
+      "name": "LFO 1 DEPTH 1",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 54,
+      "name": "LFO 1 DEPTH 2",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 55,
+      "name": "LFO 1 DEST 1 OSC 1",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 56,
+      "name": "LFO 1 DEST 1 OSC 2",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 57,
+      "name": "LFO 1 DEST 1 FILTER",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 58,
+      "name": "LFO 1 DEST 2 PWM 1",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 59,
+      "name": "LFO 1 DEST 2 PWM 2",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 60,
+      "name": "LFO 1 DEST 2 VOLUME",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 61,
+      "name": "LFO PRESSURE",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 62,
+      "name": "PAGE 2 LFO TYPE",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 63,
+      "name": "PAGE 2 LFO SAMPLE/HOLD IN",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 64,
+      "name": "SUSTAIN",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 70,
+      "name": "UNISON",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 71,
+      "name": "UNISON VOICE COUNT",
+      "valueRange": {
+        "max": 7,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 72,
+      "name": "UNISON KEY MODE",
+      "valueRange": {
+        "max": 5,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 73,
+      "name": "PAGE 2 PEDAL RELEASE",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 74,
+      "name": "BRIGHTNESS",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 75,
+      "name": "MOD BOX LFO 2 RATE",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 76,
+      "name": "MOD BOX LFO 2 SHAPE",
+      "valueRange": {
+        "max": 5,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 77,
+      "name": "MOD BOX LFO 2 DEST OSC 1",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 78,
+      "name": "MOD BOX LFO 2 DEST OSC 2",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 79,
+      "name": "MOD BOX LFO 2 DEPTH",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 80,
+      "name": "MOD BOX LFO 2 BEND OSC 2 ONLY",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 81,
+      "name": "MOD BOX MODE",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 82,
+      "name": "MOD BOX LFO 2 LOWER",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 83,
+      "name": "MOD BOX LFO 2 UPPER",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 84,
+      "name": "MOD BOX ARP ON",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 85,
+      "name": "MOD BOX ARP SPEED",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 86,
+      "name": "MOD BOX ARP HOLD KBD",
+      "valueRange": {
+        "max": 2,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 87,
+      "name": "MOD BOX ARP DOWN/UP",
+      "valueRange": {
+        "max": 3,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 88,
+      "name": "MOD BOX ARP LOWER",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 89,
+      "name": "MOD BOX ARP UPPER",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 90,
+      "name": "ARP TRANSPOSE",
+      "valueRange": {
+        "max": 2,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 91,
+      "name": "PAGE 2 PORTAMENTO MODE",
+      "valueRange": {
+        "max": 66,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 92,
+      "name": "PAGE 2 PORTAMENTO MATCH",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 93,
+      "name": "PAGE 2 PORTAMENTO QUANTIZE",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 94,
+      "name": "PAGE 2 PORTAMENTO LEGATO",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 95,
+      "name": "LOWER/UPPER/NO SELECT",
+      "valueRange": {
+        "max": 2,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 102,
+      "name": "PAGE 2 LFO 1 TRIGGER",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 103,
+      "name": "PAGE 2 LFO 1 TRIGGER PHASE",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 104,
+      "name": "PAGE 2 LFO 1 KBD TRACK",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 105,
+      "name": "PAGE 2 LFO 1 MOD 1 RAMP DELAY",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 106,
+      "name": "PAGE 2 LFO 1 MOD 1 RAMP UP",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 107,
+      "name": "PAGE 2 LFO 1 MOD 1 RAMP INVERT",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 108,
+      "name": "PAGE 2 LFO 1 MOD 1 QUANTIZE",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 109,
+      "name": "PAGE 2 LFO 1 OSC 1 MOD 1 INVERT",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 110,
+      "name": "PAGE 2 LFO 1 MOD 2 RAMP DELAY",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 111,
+      "name": "PAGE 2 LFO 1 MOD 2 RAMP UP",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 112,
+      "name": "PAGE 2 LFO 1 MOD 2 RAMP INVERT",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 113,
+      "name": "PAGE 2 LFO 1 MOD 2 QUANTIZE",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 114,
+      "name": "PAGE 2 LFO 1 OSC 1 MOD 2 INVERT",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 115,
+      "name": "PAGE 2 MOD 2 RAMP TO LFO SPEED",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 116,
+      "name": "PAGE 2 LFO SHIFT VOICES 5-8",
+      "valueRange": {
+        "max": 2,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 117,
+      "name": "PAGE 2 CHORD KEY LIMIT",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 118,
+      "name": "PAGE 2 CHORD HOLD MODE",
+      "valueRange": {
+        "max": 1,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 118,
+      "name": "NORMAL/SPLIT/DOUBLE MODE",
+      "valueRange": {
+        "max": 2,
+        "min": 0
+      }
+    }
+  ],
+  "controlChangeSequenceCommands": [],
+  "description": "open-midi-rtc-schema specification for OB-X8",
+  "device": {
+    "description": "OB-X8 Parameter Mappings",
+    "deviceType": "SYNTHESIZER",
+    "displayName": "OB-X8",
+    "documentationResource": "oberheim.com",
+    "identifier": "10",
+    "manufacturer": "Oberheim",
+    "model": "OB-X8",
+    "name": "OB-X8",
+    "version": "1.0.0"
+  },
+  "displayName": "OB-X8",
+  "implementationVersion": "1.0.0",
+  "nrpnCommands": [
+    {
+      "name": "OSC 1 FREQUENCY",
+      "parameterNumberLSB": 1,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 63,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "OSC 2 FREQUENCY",
+      "parameterNumberLSB": 2,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 63,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "OSC 2 DETUNE",
+      "parameterNumberLSB": 3,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 63,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "PAGE 2 VOICE DETUNE RANGE",
+      "parameterNumberLSB": 4,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "OSC 1 WAVEFORM",
+      "parameterNumberLSB": 5,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 3,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "OSC 2 WAVEFORM",
+      "parameterNumberLSB": 6,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 3,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "OSC 1 PULSEWIDTH",
+      "parameterNumberLSB": 7,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "OSC 2 PULSEWIDTH",
+      "parameterNumberLSB": 8,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "OSC 1 XMOD",
+      "parameterNumberLSB": 9,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "OSC SQUARE MODE",
+      "parameterNumberLSB": 10,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "PAGE 2 OSC XMOD AMOUNT",
+      "parameterNumberLSB": 11,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "OSC 1 FILT ENV MOD",
+      "parameterNumberLSB": 12,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "OSC SYNC",
+      "parameterNumberLSB": 13,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "PORTAMENTO RATE",
+      "parameterNumberLSB": 14,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "PAGE 2 PORTA MODE",
+      "parameterNumberLSB": 15,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 66,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "PAGE 2 PORTA MATCH",
+      "parameterNumberLSB": 16,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "PAGE 2 PORTA QUANTIZE",
+      "parameterNumberLSB": 17,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "PAGE 2 PORTA LEGATO",
+      "parameterNumberLSB": 18,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "OSC 1 LEVEL",
+      "parameterNumberLSB": 19,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "OSC 2 LEVEL",
+      "parameterNumberLSB": 20,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "NOISE LEVEL",
+      "parameterNumberLSB": 21,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "FILTER FREQUENCY",
+      "parameterNumberLSB": 22,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 175,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "FILTER RESONANCE",
+      "parameterNumberLSB": 23,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "FILTER TYPE",
+      "parameterNumberLSB": 24,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 5,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "FILTER KBD TRACK",
+      "parameterNumberLSB": 25,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "VINTAGE",
+      "parameterNumberLSB": 26,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "PAGE 2 LFO TYPE",
+      "parameterNumberLSB": 27,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "PAGE 2 LFO S+H IN",
+      "parameterNumberLSB": 28,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "LFO 1 RATE",
+      "parameterNumberLSB": 29,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "LFO 1 SHAPE",
+      "parameterNumberLSB": 30,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 4,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "LFO 1 DEPTH 1",
+      "parameterNumberLSB": 31,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "LFO 1 DEPTH 2",
+      "parameterNumberLSB": 32,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "LFO 1 DEST 1 OSC 1",
+      "parameterNumberLSB": 33,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "LFO 1 DEST 1 OSC 2",
+      "parameterNumberLSB": 34,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "LFO 1 DEST FILTER",
+      "parameterNumberLSB": 35,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "LFO 1 DEST FILTER",
+      "parameterNumberLSB": 35,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "LFO 1 DEST 2 PWM 1",
+      "parameterNumberLSB": 36,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "LFO 1 DEST 2 PWM 2",
+      "parameterNumberLSB": 37,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "LFO 1 DEST 2 VOLUME",
+      "parameterNumberLSB": 38,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "PAGE 2 LFO 1 TRIGGER",
+      "parameterNumberLSB": 39,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "PAGE 2 LFO TRIG PHASE",
+      "parameterNumberLSB": 40,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "PAGE 2 LFO 1 KBD TRACK",
+      "parameterNumberLSB": 41,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "PAGE 2 LFO 1 MOD 1 RAMP DELAY",
+      "parameterNumberLSB": 42,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "PAGE 2 LFO 1 MOD 1 RAMP UP",
+      "parameterNumberLSB": 43,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "PAGE 2 LFO 1 MOD 1 RAMP INVERT",
+      "parameterNumberLSB": 44,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "PAGE 2 LFO 1 MOD 1 QUANTIZE",
+      "parameterNumberLSB": 45,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "PAGE 2 LFO 1 OSC 1 MOD 1 INVERT",
+      "parameterNumberLSB": 46,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "PAGE 2 LFO 1 MOD 2 RAMP DELAY",
+      "parameterNumberLSB": 47,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "PAGE 2 LFO 1 MOD 2 RAMP UP",
+      "parameterNumberLSB": 48,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "PAGE 2 LFO 1 MOD 2 RAMP INVERT",
+      "parameterNumberLSB": 49,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "PAGE 2 LFO 1 MOD 2 QUANTIZE",
+      "parameterNumberLSB": 50,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "PAGE 2 LFO 1 OSC 1 MOD 2 INVERT",
+      "parameterNumberLSB": 51,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "PAGE 2 LFO 1 MOD 2 RAMP TO LFO SPEED",
+      "parameterNumberLSB": 52,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "PAGE 2 LFO SHIFT VOICES 5-8",
+      "parameterNumberLSB": 53,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 2,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "MOD BOX LFO 2 RATE",
+      "parameterNumberLSB": 54,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "MOD BOX LFO 2 SHAPE",
+      "parameterNumberLSB": 55,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 5,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "MOD BOX LFO 2 DEST OSC 1",
+      "parameterNumberLSB": 56,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "MOD BOX LFO 2 DEST OSC 2",
+      "parameterNumberLSB": 57,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "MOD BOX LFO 2 DEPTH",
+      "parameterNumberLSB": 58,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "FILTER MODULATION",
+      "parameterNumberLSB": 59,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "FILTER ENV ATTACK",
+      "parameterNumberLSB": 60,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 255,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "VOLUME ENV ATTACK",
+      "parameterNumberLSB": 61,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 255,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "FILTER ENV DECAY",
+      "parameterNumberLSB": 62,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 255,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "VOLUME ENV DECAY",
+      "parameterNumberLSB": 63,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 255,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "FILTER ENV SUSTAIN",
+      "parameterNumberLSB": 64,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "VOLUME ENV SUSTAIN",
+      "parameterNumberLSB": 65,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "FILTER ENV RELEASE",
+      "parameterNumberLSB": 66,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 255,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "VOLUME ENV RELEASE",
+      "parameterNumberLSB": 67,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 255,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "FILTER ENV VELO ON/OFF",
+      "parameterNumberLSB": 68,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "VOLUME ENV VELO ON/OFF",
+      "parameterNumberLSB": 69,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "PRESSURE \u003e FILTER",
+      "parameterNumberLSB": 70,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "PRESSURE \u003e LFO",
+      "parameterNumberLSB": 71,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "MOD BOX LFO 2 BEND AMOUNT",
+      "parameterNumberLSB": 72,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 12,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "PROGRAM VOLUME",
+      "parameterNumberLSB": 73,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "UNISON",
+      "parameterNumberLSB": 74,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "UNISON VOICE COUNT",
+      "parameterNumberLSB": 75,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 7,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "UNISON KEY MODE",
+      "parameterNumberLSB": 76,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 5,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "MOD BOX MODE",
+      "parameterNumberLSB": 77,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "MOD BOX LFO 2 LOWER",
+      "parameterNumberLSB": 78,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "MOD BOX LFO 2 UPPER",
+      "parameterNumberLSB": 79,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "MOD BOX ARP ON",
+      "parameterNumberLSB": 80,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "MOD BOX ARP SPEED",
+      "parameterNumberLSB": 81,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "MOD BOX ARP HOLD KBD",
+      "parameterNumberLSB": 82,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 2,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "MOD BOX ARP DOWN/UP",
+      "parameterNumberLSB": 83,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 3,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "MOD BOX ARP LOWER",
+      "parameterNumberLSB": 84,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "MOD BOX ARP UPPER",
+      "parameterNumberLSB": 85,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "ARP NUMBER OF TRANSPOSE INTERVALS",
+      "parameterNumberLSB": 86,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 5,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "ARP TRANS INTVAL NOTE 0",
+      "parameterNumberLSB": 87,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 120,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "ARP TRANS INTVAL NOTE 1",
+      "parameterNumberLSB": 88,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 120,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "ARP TRANS INTVAL NOTE 2",
+      "parameterNumberLSB": 89,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 120,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "ARP TRANS INTVAL NOTE 3",
+      "parameterNumberLSB": 90,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 120,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "ARP TRANS INTVAL NOTE 4",
+      "parameterNumberLSB": 91,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 120,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "MODBOX LFO 2 BEND OSC 2",
+      "parameterNumberLSB": 92,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "PAGE 2 PEDAL RELEASE",
+      "parameterNumberLSB": 93,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 255,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "PAGE 2 CHORD KEY LIMIT",
+      "parameterNumberLSB": 94,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "PAGE 2 CHORD HOLD MODE",
+      "parameterNumberLSB": 95,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 1,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "ENVELOPE TYPE",
+      "parameterNumberLSB": 96,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 2,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "PAGE 2 OSC 1 ON LEVEL",
+      "parameterNumberLSB": 97,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "PAGE 2 OSC 2 ON LEVEL",
+      "parameterNumberLSB": 98,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "PAGE 2 NOISE ON LEVEL",
+      "parameterNumberLSB": 99,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "PAGE 2 PAN MODE",
+      "parameterNumberLSB": 100,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 4,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "PAGE 2 PAN WIDTH",
+      "parameterNumberLSB": 101,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 2,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "MOD BOX TRANSPOSE UP/ DOWN",
+      "parameterNumberLSB": 122,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 2,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "PAGE 2 FILTER KBD TRACK",
+      "parameterNumberLSB": 123,
+      "parameterNumberMSB": 0,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "SPLIT LOWER TRANSPOSE",
+      "parameterNumberLSB": 69,
+      "parameterNumberMSB": 8,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 72,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "SPLIT UPPER TRANSPOSE",
+      "parameterNumberLSB": 101,
+      "parameterNumberMSB": 8,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 72,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "SPLIT LOWER DETUNE",
+      "parameterNumberLSB": 70,
+      "parameterNumberMSB": 8,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 64,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "SPLIT PAN MODE",
+      "parameterNumberLSB": 52,
+      "parameterNumberMSB": 8,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 4,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "SPLIT PAN WITH",
+      "parameterNumberLSB": 53,
+      "parameterNumberMSB": 8,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 2,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "SPLIT HOLD/CHORD SOURCE",
+      "parameterNumberLSB": 48,
+      "parameterNumberMSB": 8,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 2,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "SPLIT BOX MOD SOURCE",
+      "parameterNumberLSB": 37,
+      "parameterNumberMSB": 8,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 2,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    },
+    {
+      "name": "SPLIT ARP SOURCE",
+      "parameterNumberLSB": 23,
+      "parameterNumberMSB": 8,
+      "valueRangeLSB": {
+        "max": 127,
+        "min": 0
+      },
+      "valueRangeMSB": {
+        "max": 2,
+        "min": 0
+      },
+      "valueSequenceType": "MSB_LSB"
+    }
+  ],
+  "receives": [
+    "VELOCITY_NOTE_ON",
+    "VELOCITY_NOTE_OFF",
+    "CHANNEL_PRESSURE",
+    "POLY_PRESSURE",
+    "PITCH_BEND",
+    "NOTE_NUMBER",
+    "PROGRAM_CHANGE"
+  ],
+  "schemaVersion": "0.1.1",
+  "sysexCommands": [],
+  "title": "OB-X8 MIDI Implementation",
+  "transmits": [
+    "VELOCITY_NOTE_ON",
+    "VELOCITY_NOTE_OFF",
+    "NOTE_NUMBER",
+    "CHANNEL_PRESSURE",
+    "PROGRAM_CHANGE",
+    "PITCH_BEND"
+  ]
+}

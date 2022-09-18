@@ -1,0 +1,108 @@
+{
+  "controlChangeCommands": [
+    {
+      "controlChangeNumber": 1,
+      "name": "Modulation",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 7,
+      "name": "Volume",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 10,
+      "name": "Pan",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 11,
+      "name": "Expression",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 16,
+      "name": "Vector JS X",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 17,
+      "name": "Vector JS Y",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 64,
+      "name": "Damper",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 66,
+      "name": "Sostenuto",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    },
+    {
+      "controlChangeNumber": 67,
+      "name": "Soft",
+      "valueRange": {
+        "max": 127,
+        "min": 0
+      }
+    }
+  ],
+  "description": "open-midi-rtc-schema specification for Wavestate",
+  "device": {
+    "description": "Wavestate Parameter Mappings",
+    "deviceType": "SYNTHESIZER",
+    "displayName": "Wavestate",
+    "documentationResource": "korg.com",
+    "identifier": "42",
+    "manufacturer": "Korg",
+    "model": "Wavestate",
+    "name": "Wavestate",
+    "version": "1.0.0"
+  },
+  "displayName": "Wavestate",
+  "implementationVersion": "1.0.0",
+  "receives": [
+    "VELOCITY_NOTE_ON",
+    "VELOCITY_NOTE_OFF",
+    "PITCH_BEND",
+    "NOTE_NUMBER",
+    "PROGRAM_CHANGE",
+    "CHANNEL_PRESSURE",
+    "POLY_PRESSURE"
+  ],
+  "schemaVersion": "0.1.1",
+  "title": "Wavestate MIDI Implementation",
+  "transmits": [
+    "VELOCITY_NOTE_ON",
+    "VELOCITY_NOTE_OFF",
+    "NOTE_NUMBER",
+    "PROGRAM_CHANGE",
+    "PITCH_BEND"
+  ]
+}
